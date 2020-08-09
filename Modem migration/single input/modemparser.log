@@ -1,0 +1,368 @@
+2020-07-02 19:11:41,538 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:11:41,539 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:13:08,201 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:13:08,202 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:17:46,655 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:17:46,656 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:20:29,352 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:20:29,353 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:22:22,821 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:22:22,822 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:28:48,164 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:28:48,165 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:31:41,059 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:31:41,060 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:33:16,712 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:33:16,713 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:37:48,705 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:37:48,706 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:41:03,448 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:41:03,448 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:43:45,961 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:43:45,962 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:47:03,494 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:47:03,495 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:48:20,968 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:48:20,968 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:55:18,252 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-02 19:55:18,253 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-02 19:56:29,957 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-2/tcs-12-0/domain-18351/terminal-24218/cgi-bin/cgiclient?request=
+2020-07-02 19:56:29,958 - modemparser - INFO - get modem - 04-CMIMRN parameter
+2020-07-02 19:57:09,008 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-2/tcs-12-0/domain-18351/terminal-24224/cgi-bin/cgiclient?request=
+2020-07-02 19:57:09,009 - modemparser - INFO - get modem - 04-CMISKR parameter
+2020-07-06 10:59:38,509 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-17212/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-06 10:59:38,628 - modemparser - INFO - get modem - PRIMACOM_HP97_HPLOBI1_B2 parameter
+2020-07-11 09:55:44,026 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-18351/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-11 09:55:44,067 - modemparser - INFO - get modem - 02-HPL001 parameter
+2020-07-11 10:17:04,328 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-2/tcs-9-0/domain-18351/terminal-30096/cgi-bin/cgiclient?request=
+2020-07-11 10:17:04,328 - modemparser - INFO - get modem - 02-HPL001 parameter
+2020-07-24 14:38:00,714 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-18351/terminal-24212/cgi-bin/cgiclient?request=
+2020-07-24 14:38:00,742 - modemparser - INFO - get modem - 13-SMOPOL parameter
+2020-07-24 14:39:00,335 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-32583/cgi-bin/cgiclient?request=
+2020-07-24 14:39:00,336 - modemparser - INFO - get modem - ASN_AGAST_B13 parameter
+2020-07-24 14:40:11,075 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-31101/cgi-bin/cgiclient?request=
+2020-07-24 14:40:11,076 - modemparser - INFO - get modem - ASN_TRIAL_BankPapua_TOLIKARA_B13 parameter
+2020-07-24 14:41:19,930 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-31148/cgi-bin/cgiclient?request=
+2020-07-24 14:41:19,930 - modemparser - INFO - get modem - ASN_TRIAL_UDINUMAR_Wamena_B13 parameter
+2020-07-24 14:41:55,679 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-32589/cgi-bin/cgiclient?request=
+2020-07-24 14:41:55,679 - modemparser - INFO - get modem - ASN_WARSE_B13 parameter
+2020-07-24 14:42:30,469 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31082/cgi-bin/cgiclient?request=
+2020-07-24 14:42:30,470 - modemparser - INFO - get modem - EMSTRET_HP1_T0032_B13 parameter
+2020-07-24 14:43:07,383 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29475/cgi-bin/cgiclient?request=
+2020-07-24 14:43:07,387 - modemparser - INFO - get modem - EXCITE_HP1_MNS13_Auna_B13 parameter
+2020-07-24 14:43:43,332 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-33002/cgi-bin/cgiclient?request=
+2020-07-24 14:43:43,333 - modemparser - INFO - get modem - EXCITE_HP1_MNS5_ManusSchool2_Aua_B13 parameter
+2020-07-24 14:44:20,326 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29485/cgi-bin/cgiclient?request=
+2020-07-24 14:44:20,326 - modemparser - INFO - get modem - EXCITE_HP1_MNS9_Wuvulu_B13 parameter
+2020-07-24 14:45:32,414 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-30022/cgi-bin/cgiclient?request=
+2020-07-24 14:45:32,415 - modemparser - INFO - get modem - EXCITE_HP1_VAN11_SumuminiSBSL_B13 parameter
+2020-07-24 14:46:08,056 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31472/cgi-bin/cgiclient?request=
+2020-07-24 14:46:08,057 - modemparser - INFO - get modem - EXCITE_HP1_VAN34_Bewani_ImbioMill_B13 parameter
+2020-07-24 14:47:10,576 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-33301/cgi-bin/cgiclient?request=
+2020-07-24 14:47:10,577 - modemparser - INFO - get modem - EXCITE_HP1_VAN35_Amanab56Timber_B13 parameter
+2020-07-24 14:47:47,873 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29697/cgi-bin/cgiclient?request=
+2020-07-24 14:47:47,873 - modemparser - INFO - get modem - EXCITE_HP2_ATP_St_IgnatiusSchool_B13 parameter
+2020-07-24 14:48:56,954 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29703/cgi-bin/cgiclient?request=
+2020-07-24 14:48:56,954 - modemparser - INFO - get modem - EXCITE_HP2_VAN12_SumuminiTSL_B13 parameter
+2020-07-24 14:49:34,328 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29746/cgi-bin/cgiclient?request=
+2020-07-24 14:49:34,329 - modemparser - INFO - get modem - EXCITE_HP2_VAN13_BewaniTSL_B13 parameter
+2020-07-24 14:50:41,118 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29709/cgi-bin/cgiclient?request=
+2020-07-24 14:50:41,119 - modemparser - INFO - get modem - EXCITE_HP2_VAN14_PaulPioBOPPL_B13 parameter
+2020-07-24 14:51:21,764 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29776/cgi-bin/cgiclient?request=
+2020-07-24 14:51:21,764 - modemparser - INFO - get modem - EXCITE_HP2_VAN17_MedalionHotel_B13 parameter
+2020-07-24 14:52:30,938 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29715/cgi-bin/cgiclient?request=
+2020-07-24 14:52:30,939 - modemparser - INFO - get modem - EXCITE_HP2_VAN18_BOPPNew_B13 parameter
+2020-07-24 14:53:09,904 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29752/cgi-bin/cgiclient?request=
+2020-07-24 14:53:09,905 - modemparser - INFO - get modem - EXCITE_HP2_VAN20_NationalForestSer_B13 parameter
+2020-07-24 14:54:15,182 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29733/cgi-bin/cgiclient?request=
+2020-07-24 14:54:15,183 - modemparser - INFO - get modem - EXCITE_HP2_VAN21_VGreenSecSchool_B13 parameter
+2020-07-24 14:54:51,592 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29739/cgi-bin/cgiclient?request=
+2020-07-24 14:54:51,593 - modemparser - INFO - get modem - EXCITE_HP2_VAN22_AmanabForestPIMAS_B13 parameter
+2020-07-24 14:55:30,009 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29782/cgi-bin/cgiclient?request=
+2020-07-24 14:55:30,009 - modemparser - INFO - get modem - EXCITE_HP2_VAN25_BismarkShipping_B13 parameter
+2020-07-24 14:56:07,111 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29812/cgi-bin/cgiclient?request=
+2020-07-24 14:56:07,112 - modemparser - INFO - get modem - EXCITE_HP2_VAN26_Sunland_LTD_B13 parameter
+2020-07-24 14:57:11,417 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29721/cgi-bin/cgiclient?request=
+2020-07-24 14:57:11,419 - modemparser - INFO - get modem - EXCITE_HP2_VAN2_VanimoSupermarket_B13 parameter
+2020-07-24 14:58:22,565 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29800/cgi-bin/cgiclient?request=
+2020-07-24 14:58:22,568 - modemparser - INFO - get modem - EXCITE_HP2_VAN3_BOPPL_HQVanimo_B13 parameter
+2020-07-24 15:01:04,985 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29727/cgi-bin/cgiclient?request=
+2020-07-24 15:01:04,986 - modemparser - INFO - get modem - EXCITE_HP2_VAN5_AMFOREST_MakaCamp_B13 parameter
+2020-07-24 15:02:15,206 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29818/cgi-bin/cgiclient?request=
+2020-07-24 15:02:15,207 - modemparser - INFO - get modem - EXCITE_HP2_VAN60_ImbioOPLCamp_B13 parameter
+2020-07-24 15:03:28,080 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29764/cgi-bin/cgiclient?request=
+2020-07-24 15:03:28,080 - modemparser - INFO - get modem - EXCITE_HP2_VAN61_AitapeJayaLtd_B13 parameter
+2020-07-24 15:04:38,472 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29806/cgi-bin/cgiclient?request=
+2020-07-24 15:04:38,473 - modemparser - INFO - get modem - EXCITE_HP2_VAN6_AMANAB_FOREST_PROD_B13 parameter
+2020-07-24 15:05:45,100 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29770/cgi-bin/cgiclient?request=
+2020-07-24 15:05:45,101 - modemparser - INFO - get modem - EXCITE_HP2_VAN9_ImbioBOPPL_B13 parameter
+2020-07-24 15:06:59,931 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29788/cgi-bin/cgiclient?request=
+2020-07-24 15:06:59,931 - modemparser - INFO - get modem - EXCITE_HP2_VAN_AmanabForestStonepas_B13 parameter
+2020-07-24 15:08:08,691 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29794/cgi-bin/cgiclient?request=
+2020-07-24 15:08:08,692 - modemparser - INFO - get modem - EXCITE_HP2_VAN_PJ_PlantationsLtd_B13 parameter
+2020-07-24 15:09:13,456 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34524/cgi-bin/cgiclient?request=
+2020-07-24 15:09:13,457 - modemparser - INFO - get modem - KARUNIASINERGI_HP1_T0002_B13 parameter
+2020-07-24 15:10:30,379 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34651/cgi-bin/cgiclient?request=
+2020-07-24 15:10:30,380 - modemparser - INFO - get modem - KSINERGI_HP1_T0004_B13 parameter
+2020-07-24 15:11:42,664 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34806/cgi-bin/cgiclient?request=
+2020-07-24 15:11:42,664 - modemparser - INFO - get modem - KSINERGI_HP1_T0005_B13 parameter
+2020-07-24 15:12:22,286 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34812/cgi-bin/cgiclient?request=
+2020-07-24 15:12:22,286 - modemparser - INFO - get modem - KSINERGI_HP1_T0006_B13 parameter
+2020-07-24 15:12:59,719 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34819/cgi-bin/cgiclient?request=
+2020-07-24 15:12:59,719 - modemparser - INFO - get modem - KSINERGI_HP1_T0007_B13 parameter
+2020-07-24 15:14:21,598 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34825/cgi-bin/cgiclient?request=
+2020-07-24 15:14:21,599 - modemparser - INFO - get modem - KSINERGI_HP1_T0008_B13 parameter
+2020-07-24 15:15:26,033 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34645/cgi-bin/cgiclient?request=
+2020-07-24 15:15:26,034 - modemparser - INFO - get modem - KSINERGI_HP3_T0003_B13 parameter
+2020-07-24 15:16:32,935 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31965/cgi-bin/cgiclient?request=
+2020-07-24 15:16:32,936 - modemparser - INFO - get modem - PETRO1_HP1_T0034_B13 parameter
+2020-07-24 15:17:35,869 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31971/cgi-bin/cgiclient?request=
+2020-07-24 15:17:35,869 - modemparser - INFO - get modem - PETRO1_HP1_T0035_B13 parameter
+2020-07-24 15:18:58,377 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34838/cgi-bin/cgiclient?request=
+2020-07-24 15:18:58,378 - modemparser - INFO - get modem - PETRO1_HP1_T0063_B13 parameter
+2020-07-24 15:19:46,852 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34850/cgi-bin/cgiclient?request=
+2020-07-24 15:19:46,852 - modemparser - INFO - get modem - PETRO1_HP1_T0065_B13 parameter
+2020-07-24 15:22:19,014 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34856/cgi-bin/cgiclient?request=
+2020-07-24 15:22:19,015 - modemparser - INFO - get modem - PETRO1_HP1_T0066_B13 parameter
+2020-07-24 15:24:15,530 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34925/cgi-bin/cgiclient?request=
+2020-07-24 15:24:15,531 - modemparser - INFO - get modem - PETRO1_HP1_T0070_B13 parameter
+2020-07-24 15:25:25,111 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34919/cgi-bin/cgiclient?request=
+2020-07-24 15:25:25,112 - modemparser - INFO - get modem - PETRO1_HP1_T0071_B13 parameter
+2020-07-24 15:26:37,550 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-35084/cgi-bin/cgiclient?request=
+2020-07-24 15:26:37,551 - modemparser - INFO - get modem - PETRO1_HP1_T0078_B13 parameter
+2020-07-24 15:27:15,853 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-19126/cgi-bin/cgiclient?request=
+2020-07-24 15:27:15,853 - modemparser - INFO - get modem - Test-JAV-1-13 parameter
+2020-07-24 15:28:35,055 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-20235/cgi-bin/cgiclient?request=
+2020-07-24 15:28:35,056 - modemparser - INFO - get modem - Test-JAV-2-13_benyom_jaya parameter
+2020-07-24 15:29:42,068 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-24291/cgi-bin/cgiclient?request=
+2020-07-24 15:29:42,069 - modemparser - INFO - get modem - Test_JAV_21_13_agast parameter
+2020-07-24 15:30:44,965 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-28705/cgi-bin/cgiclient?request=
+2020-07-24 15:30:44,965 - modemparser - INFO - get modem - Test_JAV_22_13_SantosoTolikara parameter
+2020-07-24 15:31:45,569 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-20628/cgi-bin/cgiclient?request=
+2020-07-24 15:31:45,572 - modemparser - INFO - get modem - Test_JAV_3_13_Demta parameter
+2020-07-24 15:32:20,661 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-22583/cgi-bin/cgiclient?request=
+2020-07-24 15:32:20,661 - modemparser - INFO - get modem - Test_JAV_4_13_mappi parameter
+2020-07-24 15:33:25,607 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-31510/terminal-24122/cgi-bin/cgiclient?request=
+2020-07-24 15:33:25,607 - modemparser - INFO - get modem - Test_JAV_5_13_Wamena parameter
+2020-07-24 15:34:30,478 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29407/cgi-bin/cgiclient?request=
+2020-07-24 15:34:30,478 - modemparser - INFO - get modem - PETRO1_HP1_T0001_B10 parameter
+2020-07-24 15:35:33,931 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29554/cgi-bin/cgiclient?request=
+2020-07-24 15:35:33,932 - modemparser - INFO - get modem - PETRO1_HP1_T0002_B10 parameter
+2020-07-24 15:36:39,507 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29567/cgi-bin/cgiclient?request=
+2020-07-24 15:36:39,508 - modemparser - INFO - get modem - PETRO1_HP1_T0003_B10 parameter
+2020-07-24 15:37:20,585 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29573/cgi-bin/cgiclient?request=
+2020-07-24 15:37:20,586 - modemparser - INFO - get modem - PETRO1_HP1_T0004_B10 parameter
+2020-07-24 15:37:58,518 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29579/cgi-bin/cgiclient?request=
+2020-07-24 15:37:58,519 - modemparser - INFO - get modem - PETRO1_HP1_T0005_B10 parameter
+2020-07-24 15:38:59,409 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30174/cgi-bin/cgiclient?request=
+2020-07-24 15:38:59,410 - modemparser - INFO - get modem - PETRO1_HP1_T0007_B10 parameter
+2020-07-24 15:39:35,309 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30186/cgi-bin/cgiclient?request=
+2020-07-24 15:39:35,310 - modemparser - INFO - get modem - PETRO1_HP1_T0008_B10 parameter
+2020-07-24 15:40:38,359 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30927/cgi-bin/cgiclient?request=
+2020-07-24 15:40:38,360 - modemparser - INFO - get modem - PETRO1_HP1_T0009_B10 parameter
+2020-07-24 15:41:40,257 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30945/cgi-bin/cgiclient?request=
+2020-07-24 15:41:40,258 - modemparser - INFO - get modem - PETRO1_HP1_T0011_B10 parameter
+2020-07-24 15:42:48,264 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30951/cgi-bin/cgiclient?request=
+2020-07-24 15:42:48,265 - modemparser - INFO - get modem - PETRO1_HP1_T0012_B10 parameter
+2020-07-24 15:43:47,314 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30957/cgi-bin/cgiclient?request=
+2020-07-24 15:43:47,315 - modemparser - INFO - get modem - PETRO1_HP1_T0013_B10 parameter
+2020-07-24 15:44:58,159 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30965/cgi-bin/cgiclient?request=
+2020-07-24 15:44:58,160 - modemparser - INFO - get modem - PETRO1_HP1_T0014_B10 parameter
+2020-07-24 15:45:58,145 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30971/cgi-bin/cgiclient?request=
+2020-07-24 15:45:58,145 - modemparser - INFO - get modem - PETRO1_HP1_T0015_B10 parameter
+2020-07-24 15:46:58,250 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32400/cgi-bin/cgiclient?request=
+2020-07-24 15:46:58,251 - modemparser - INFO - get modem - PETRO1_HP1_T0036_B10 parameter
+2020-07-24 15:47:34,306 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32406/cgi-bin/cgiclient?request=
+2020-07-24 15:47:34,306 - modemparser - INFO - get modem - PETRO1_HP1_T0037_B10 parameter
+2020-07-24 15:48:26,459 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32415/cgi-bin/cgiclient?request=
+2020-07-24 15:48:26,460 - modemparser - INFO - get modem - PETRO1_HP1_T0038_B10 parameter
+2020-07-24 15:49:24,099 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32938/cgi-bin/cgiclient?request=
+2020-07-24 15:49:24,100 - modemparser - INFO - get modem - PETRO1_HP1_T0047_B10 parameter
+2020-07-24 15:50:29,212 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32944/cgi-bin/cgiclient?request=
+2020-07-24 15:50:29,213 - modemparser - INFO - get modem - PETRO1_HP1_T0048_B10 parameter
+2020-07-24 15:51:33,773 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32950/cgi-bin/cgiclient?request=
+2020-07-24 15:51:33,774 - modemparser - INFO - get modem - PETRO1_HP1_T0049_B10 parameter
+2020-07-24 15:52:33,227 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32956/cgi-bin/cgiclient?request=
+2020-07-24 15:52:33,228 - modemparser - INFO - get modem - PETRO1_HP1_T0050_B10 parameter
+2020-07-24 15:53:07,831 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32962/cgi-bin/cgiclient?request=
+2020-07-24 15:53:07,831 - modemparser - INFO - get modem - PETRO1_HP1_T0051_B10 parameter
+2020-07-24 15:53:45,420 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-27666/cgi-bin/cgiclient?request=
+2020-07-24 15:53:45,421 - modemparser - INFO - get modem - PETRO1_HP6_T0017_B10 parameter
+2020-07-24 15:54:54,555 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-13775/cgi-bin/cgiclient?request=
+2020-07-24 15:54:54,556 - modemparser - INFO - get modem - PETRO1_HP6_T0018_B10 parameter
+2020-07-24 15:56:07,457 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-24860/cgi-bin/cgiclient?request=
+2020-07-24 15:56:07,458 - modemparser - INFO - get modem - PETRO1_HP6_T0019_B10 parameter
+2020-07-24 15:57:19,672 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31804/cgi-bin/cgiclient?request=
+2020-07-24 15:57:19,673 - modemparser - INFO - get modem - PETRO1_HP6_T0020_B10 parameter
+2020-07-24 15:58:16,222 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31810/cgi-bin/cgiclient?request=
+2020-07-24 15:58:16,223 - modemparser - INFO - get modem - PETRO1_HP6_T0021_B10 parameter
+2020-07-24 15:59:28,530 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31828/cgi-bin/cgiclient?request=
+2020-07-24 15:59:28,531 - modemparser - INFO - get modem - PETRO1_HP6_T0022_B10 parameter
+2020-07-24 16:00:39,406 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31854/cgi-bin/cgiclient?request=
+2020-07-24 16:00:39,406 - modemparser - INFO - get modem - PETRO1_HP6_T0027_B10 parameter
+2020-07-24 16:02:00,012 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31842/cgi-bin/cgiclient?request=
+2020-07-24 16:02:00,014 - modemparser - INFO - get modem - PETRO1_HP6_T0030_B10 parameter
+2020-07-24 16:03:16,032 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32696/cgi-bin/cgiclient?request=
+2020-07-24 16:03:16,033 - modemparser - INFO - get modem - PETRO1_HP6_T0046_B10 parameter
+2020-07-24 16:04:29,569 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33566/cgi-bin/cgiclient?request=
+2020-07-24 16:04:29,569 - modemparser - INFO - get modem - PETRO1_HP6_T0054_B10 parameter
+2020-07-24 16:05:36,737 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33583/cgi-bin/cgiclient?request=
+2020-07-24 16:05:36,737 - modemparser - INFO - get modem - PETRO1_HP6_T0055_B10 parameter
+2020-07-24 16:06:49,558 - modemparser - INFO - trying to reach to modem remote gui=>http://192.168.48.139:49006/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33589/cgi-bin/cgiclient?request=
+2020-07-24 16:06:49,558 - modemparser - INFO - get modem - PETRO1_HP6_T0056_B10 parameter
+2020-07-30 08:03:26,914 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-18351/terminal-24212/cgi-bin/cgiclient?request=
+2020-07-30 08:03:26,970 - modemparser - INFO - get modem - 13-SMOPOL parameter
+2020-07-30 08:03:54,244 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31082/cgi-bin/cgiclient?request=
+2020-07-30 08:03:54,245 - modemparser - INFO - get modem - EMSTRET_HP1_T0032_B13 parameter
+2020-07-30 08:04:20,512 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29475/cgi-bin/cgiclient?request=
+2020-07-30 08:04:20,513 - modemparser - INFO - get modem - EXCITE_HP1_MNS13_Auna_B13 parameter
+2020-07-30 08:04:52,106 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-33002/cgi-bin/cgiclient?request=
+2020-07-30 08:04:52,107 - modemparser - INFO - get modem - EXCITE_HP1_MNS5_ManusSchool2_Aua_B13 parameter
+2020-07-30 08:05:18,524 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29485/cgi-bin/cgiclient?request=
+2020-07-30 08:05:18,525 - modemparser - INFO - get modem - EXCITE_HP1_MNS9_Wuvulu_B13 parameter
+2020-07-30 08:05:44,828 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-30022/cgi-bin/cgiclient?request=
+2020-07-30 08:05:44,829 - modemparser - INFO - get modem - EXCITE_HP1_VAN11_SumuminiSBSL_B13 parameter
+2020-07-30 08:06:10,993 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31472/cgi-bin/cgiclient?request=
+2020-07-30 08:06:10,994 - modemparser - INFO - get modem - EXCITE_HP1_VAN34_Bewani_ImbioMill_B13 parameter
+2020-07-30 08:06:37,200 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-33301/cgi-bin/cgiclient?request=
+2020-07-30 08:06:37,201 - modemparser - INFO - get modem - EXCITE_HP1_VAN35_Amanab56Timber_B13 parameter
+2020-07-30 08:07:03,411 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29697/cgi-bin/cgiclient?request=
+2020-07-30 08:07:03,411 - modemparser - INFO - get modem - EXCITE_HP2_ATP_St_IgnatiusSchool_B13 parameter
+2020-07-30 08:07:29,958 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29703/cgi-bin/cgiclient?request=
+2020-07-30 08:07:29,959 - modemparser - INFO - get modem - EXCITE_HP2_VAN12_SumuminiTSL_B13 parameter
+2020-07-30 08:07:56,250 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29746/cgi-bin/cgiclient?request=
+2020-07-30 08:07:56,251 - modemparser - INFO - get modem - EXCITE_HP2_VAN13_BewaniTSL_B13 parameter
+2020-07-30 08:09:43,894 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29709/cgi-bin/cgiclient?request=
+2020-07-30 08:09:43,895 - modemparser - INFO - get modem - EXCITE_HP2_VAN14_PaulPioBOPPL_B13 parameter
+2020-07-30 08:10:10,406 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29776/cgi-bin/cgiclient?request=
+2020-07-30 08:10:10,407 - modemparser - INFO - get modem - EXCITE_HP2_VAN17_MedalionHotel_B13 parameter
+2020-07-30 08:10:37,038 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29715/cgi-bin/cgiclient?request=
+2020-07-30 08:10:37,039 - modemparser - INFO - get modem - EXCITE_HP2_VAN18_BOPPNew_B13 parameter
+2020-07-30 08:11:03,463 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29752/cgi-bin/cgiclient?request=
+2020-07-30 08:11:03,463 - modemparser - INFO - get modem - EXCITE_HP2_VAN20_NationalForestSer_B13 parameter
+2020-07-30 08:11:29,745 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29733/cgi-bin/cgiclient?request=
+2020-07-30 08:11:29,746 - modemparser - INFO - get modem - EXCITE_HP2_VAN21_VGreenSecSchool_B13 parameter
+2020-07-30 08:12:01,426 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29739/cgi-bin/cgiclient?request=
+2020-07-30 08:12:01,427 - modemparser - INFO - get modem - EXCITE_HP2_VAN22_AmanabForestPIMAS_B13 parameter
+2020-07-30 08:12:27,676 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29758/cgi-bin/cgiclient?request=
+2020-07-30 08:12:27,677 - modemparser - INFO - get modem - EXCITE_HP2_VAN23_WestSepikProvinAdm_B13 parameter
+2020-07-30 08:12:54,219 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29782/cgi-bin/cgiclient?request=
+2020-07-30 08:12:54,220 - modemparser - INFO - get modem - EXCITE_HP2_VAN25_BismarkShipping_B13 parameter
+2020-07-30 08:13:25,874 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29812/cgi-bin/cgiclient?request=
+2020-07-30 08:13:25,874 - modemparser - INFO - get modem - EXCITE_HP2_VAN26_Sunland_LTD_B13 parameter
+2020-07-30 08:13:57,510 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29721/cgi-bin/cgiclient?request=
+2020-07-30 08:13:57,511 - modemparser - INFO - get modem - EXCITE_HP2_VAN2_VanimoSupermarket_B13 parameter
+2020-07-30 08:14:23,760 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29800/cgi-bin/cgiclient?request=
+2020-07-30 08:14:23,761 - modemparser - INFO - get modem - EXCITE_HP2_VAN3_BOPPL_HQVanimo_B13 parameter
+2020-07-30 08:14:49,862 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29727/cgi-bin/cgiclient?request=
+2020-07-30 08:14:49,863 - modemparser - INFO - get modem - EXCITE_HP2_VAN5_AMFOREST_MakaCamp_B13 parameter
+2020-07-30 08:15:16,248 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29818/cgi-bin/cgiclient?request=
+2020-07-30 08:15:16,249 - modemparser - INFO - get modem - EXCITE_HP2_VAN60_ImbioOPLCamp_B13 parameter
+2020-07-30 08:15:42,347 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29764/cgi-bin/cgiclient?request=
+2020-07-30 08:15:42,347 - modemparser - INFO - get modem - EXCITE_HP2_VAN61_AitapeJayaLtd_B13 parameter
+2020-07-30 08:16:08,475 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29806/cgi-bin/cgiclient?request=
+2020-07-30 08:16:08,476 - modemparser - INFO - get modem - EXCITE_HP2_VAN6_AMANAB_FOREST_PROD_B13 parameter
+2020-07-30 08:16:35,817 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29770/cgi-bin/cgiclient?request=
+2020-07-30 08:16:35,817 - modemparser - INFO - get modem - EXCITE_HP2_VAN9_ImbioBOPPL_B13 parameter
+2020-07-30 08:17:01,922 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29788/cgi-bin/cgiclient?request=
+2020-07-30 08:17:01,923 - modemparser - INFO - get modem - EXCITE_HP2_VAN_AmanabForestStonepas_B13 parameter
+2020-07-30 08:17:28,161 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-29794/cgi-bin/cgiclient?request=
+2020-07-30 08:17:28,162 - modemparser - INFO - get modem - EXCITE_HP2_VAN_PJ_PlantationsLtd_B13 parameter
+2020-07-30 08:17:56,123 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34524/cgi-bin/cgiclient?request=
+2020-07-30 08:17:56,123 - modemparser - INFO - get modem - KARUNIASINERGI_HP1_T0002_B13 parameter
+2020-07-30 08:18:23,058 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34651/cgi-bin/cgiclient?request=
+2020-07-30 08:18:23,059 - modemparser - INFO - get modem - KSINERGI_HP1_T0004_B13 parameter
+2020-07-30 08:18:51,666 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34806/cgi-bin/cgiclient?request=
+2020-07-30 08:18:51,667 - modemparser - INFO - get modem - KSINERGI_HP1_T0005_B13 parameter
+2020-07-30 08:19:18,047 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34812/cgi-bin/cgiclient?request=
+2020-07-30 08:19:18,048 - modemparser - INFO - get modem - KSINERGI_HP1_T0006_B13 parameter
+2020-07-30 08:19:49,722 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34819/cgi-bin/cgiclient?request=
+2020-07-30 08:19:49,722 - modemparser - INFO - get modem - KSINERGI_HP1_T0007_B13 parameter
+2020-07-30 08:20:16,487 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34825/cgi-bin/cgiclient?request=
+2020-07-30 08:20:16,488 - modemparser - INFO - get modem - KSINERGI_HP1_T0008_B13 parameter
+2020-07-30 08:20:48,077 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34645/cgi-bin/cgiclient?request=
+2020-07-30 08:20:48,078 - modemparser - INFO - get modem - KSINERGI_HP3_T0003_B13 parameter
+2020-07-30 08:21:14,408 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31965/cgi-bin/cgiclient?request=
+2020-07-30 08:21:14,409 - modemparser - INFO - get modem - PETRO1_HP1_T0034_B13 parameter
+2020-07-30 08:21:41,932 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-31971/cgi-bin/cgiclient?request=
+2020-07-30 08:21:41,932 - modemparser - INFO - get modem - PETRO1_HP1_T0035_B13 parameter
+2020-07-30 08:22:08,082 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34838/cgi-bin/cgiclient?request=
+2020-07-30 08:22:08,083 - modemparser - INFO - get modem - PETRO1_HP1_T0063_B13 parameter
+2020-07-30 08:22:34,645 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34850/cgi-bin/cgiclient?request=
+2020-07-30 08:22:34,646 - modemparser - INFO - get modem - PETRO1_HP1_T0065_B13 parameter
+2020-07-30 08:23:01,176 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34856/cgi-bin/cgiclient?request=
+2020-07-30 08:23:01,176 - modemparser - INFO - get modem - PETRO1_HP1_T0066_B13 parameter
+2020-07-30 08:23:29,347 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34925/cgi-bin/cgiclient?request=
+2020-07-30 08:23:29,348 - modemparser - INFO - get modem - PETRO1_HP1_T0070_B13 parameter
+2020-07-30 08:23:55,809 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-34919/cgi-bin/cgiclient?request=
+2020-07-30 08:23:55,809 - modemparser - INFO - get modem - PETRO1_HP1_T0071_B13 parameter
+2020-07-30 08:24:22,460 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-35084/cgi-bin/cgiclient?request=
+2020-07-30 08:24:22,460 - modemparser - INFO - get modem - PETRO1_HP1_T0078_B13 parameter
+2020-07-30 08:24:50,258 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-2_ENCL-1/tcs-4-0/domain-17212/terminal-19126/cgi-bin/cgiclient?request=
+2020-07-30 08:24:50,258 - modemparser - INFO - get modem - Test-JAV-1-13 parameter
+2020-07-30 08:25:16,878 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29407/cgi-bin/cgiclient?request=
+2020-07-30 08:25:16,880 - modemparser - INFO - get modem - PETRO1_HP1_T0001_B10 parameter
+2020-07-30 08:25:44,721 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29554/cgi-bin/cgiclient?request=
+2020-07-30 08:25:44,721 - modemparser - INFO - get modem - PETRO1_HP1_T0002_B10 parameter
+2020-07-30 08:26:11,046 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29567/cgi-bin/cgiclient?request=
+2020-07-30 08:26:11,046 - modemparser - INFO - get modem - PETRO1_HP1_T0003_B10 parameter
+2020-07-30 08:26:37,647 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29573/cgi-bin/cgiclient?request=
+2020-07-30 08:26:37,648 - modemparser - INFO - get modem - PETRO1_HP1_T0004_B10 parameter
+2020-07-30 08:27:04,922 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-29579/cgi-bin/cgiclient?request=
+2020-07-30 08:27:04,923 - modemparser - INFO - get modem - PETRO1_HP1_T0005_B10 parameter
+2020-07-30 08:27:31,444 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30174/cgi-bin/cgiclient?request=
+2020-07-30 08:27:31,444 - modemparser - INFO - get modem - PETRO1_HP1_T0007_B10 parameter
+2020-07-30 08:27:58,930 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30186/cgi-bin/cgiclient?request=
+2020-07-30 08:27:58,930 - modemparser - INFO - get modem - PETRO1_HP1_T0008_B10 parameter
+2020-07-30 08:28:25,458 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30927/cgi-bin/cgiclient?request=
+2020-07-30 08:28:25,459 - modemparser - INFO - get modem - PETRO1_HP1_T0009_B10 parameter
+2020-07-30 08:28:51,861 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30945/cgi-bin/cgiclient?request=
+2020-07-30 08:28:51,861 - modemparser - INFO - get modem - PETRO1_HP1_T0011_B10 parameter
+2020-07-30 08:29:18,207 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30951/cgi-bin/cgiclient?request=
+2020-07-30 08:29:18,208 - modemparser - INFO - get modem - PETRO1_HP1_T0012_B10 parameter
+2020-07-30 08:29:44,531 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30957/cgi-bin/cgiclient?request=
+2020-07-30 08:29:44,531 - modemparser - INFO - get modem - PETRO1_HP1_T0013_B10 parameter
+2020-07-30 08:30:13,330 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30965/cgi-bin/cgiclient?request=
+2020-07-30 08:30:13,330 - modemparser - INFO - get modem - PETRO1_HP1_T0014_B10 parameter
+2020-07-30 08:30:40,895 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-30971/cgi-bin/cgiclient?request=
+2020-07-30 08:30:40,895 - modemparser - INFO - get modem - PETRO1_HP1_T0015_B10 parameter
+2020-07-30 08:31:09,871 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32400/cgi-bin/cgiclient?request=
+2020-07-30 08:31:09,871 - modemparser - INFO - get modem - PETRO1_HP1_T0036_B10 parameter
+2020-07-30 08:31:37,531 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32406/cgi-bin/cgiclient?request=
+2020-07-30 08:31:37,532 - modemparser - INFO - get modem - PETRO1_HP1_T0037_B10 parameter
+2020-07-30 08:32:05,194 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32415/cgi-bin/cgiclient?request=
+2020-07-30 08:32:05,195 - modemparser - INFO - get modem - PETRO1_HP1_T0038_B10 parameter
+2020-07-30 08:32:31,803 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32938/cgi-bin/cgiclient?request=
+2020-07-30 08:32:31,804 - modemparser - INFO - get modem - PETRO1_HP1_T0047_B10 parameter
+2020-07-30 08:32:59,395 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32944/cgi-bin/cgiclient?request=
+2020-07-30 08:32:59,396 - modemparser - INFO - get modem - PETRO1_HP1_T0048_B10 parameter
+2020-07-30 08:33:30,281 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32950/cgi-bin/cgiclient?request=
+2020-07-30 08:33:30,282 - modemparser - INFO - get modem - PETRO1_HP1_T0049_B10 parameter
+2020-07-30 08:33:56,808 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32956/cgi-bin/cgiclient?request=
+2020-07-30 08:33:56,808 - modemparser - INFO - get modem - PETRO1_HP1_T0050_B10 parameter
+2020-07-30 08:34:25,557 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32962/cgi-bin/cgiclient?request=
+2020-07-30 08:34:25,558 - modemparser - INFO - get modem - PETRO1_HP1_T0051_B10 parameter
+2020-07-30 08:34:52,095 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-27666/cgi-bin/cgiclient?request=
+2020-07-30 08:34:52,096 - modemparser - INFO - get modem - PETRO1_HP6_T0017_B10 parameter
+2020-07-30 08:35:18,667 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-13775/cgi-bin/cgiclient?request=
+2020-07-30 08:35:18,668 - modemparser - INFO - get modem - PETRO1_HP6_T0018_B10 parameter
+2020-07-30 08:35:48,254 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-24860/cgi-bin/cgiclient?request=
+2020-07-30 08:35:48,255 - modemparser - INFO - get modem - PETRO1_HP6_T0019_B10 parameter
+2020-07-30 08:36:17,835 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31804/cgi-bin/cgiclient?request=
+2020-07-30 08:36:17,835 - modemparser - INFO - get modem - PETRO1_HP6_T0020_B10 parameter
+2020-07-30 08:36:44,199 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31810/cgi-bin/cgiclient?request=
+2020-07-30 08:36:44,200 - modemparser - INFO - get modem - PETRO1_HP6_T0021_B10 parameter
+2020-07-30 08:37:15,391 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31828/cgi-bin/cgiclient?request=
+2020-07-30 08:37:15,392 - modemparser - INFO - get modem - PETRO1_HP6_T0022_B10 parameter
+2020-07-30 08:37:45,697 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31854/cgi-bin/cgiclient?request=
+2020-07-30 08:37:45,698 - modemparser - INFO - get modem - PETRO1_HP6_T0027_B10 parameter
+2020-07-30 08:38:15,547 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-31842/cgi-bin/cgiclient?request=
+2020-07-30 08:38:15,548 - modemparser - INFO - get modem - PETRO1_HP6_T0030_B10 parameter
+2020-07-30 08:38:44,338 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-32696/cgi-bin/cgiclient?request=
+2020-07-30 08:38:44,339 - modemparser - INFO - get modem - PETRO1_HP6_T0046_B10 parameter
+2020-07-30 08:39:10,740 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33566/cgi-bin/cgiclient?request=
+2020-07-30 08:39:10,741 - modemparser - INFO - get modem - PETRO1_HP6_T0054_B10 parameter
+2020-07-30 08:39:39,539 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33583/cgi-bin/cgiclient?request=
+2020-07-30 08:39:39,539 - modemparser - INFO - get modem - PETRO1_HP6_T0055_B10 parameter
+2020-07-30 08:40:10,516 - modemparser - INFO - trying to reach to modem remote gui=>http://10.0.10.60/remote-gui/KAC_JAV-1_ENCL-1/tcs-1-0/domain-17212/terminal-33589/cgi-bin/cgiclient?request=
+2020-07-30 08:40:10,516 - modemparser - INFO - get modem - PETRO1_HP6_T0056_B10 parameter

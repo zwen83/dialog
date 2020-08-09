@@ -1,0 +1,76 @@
+05/08/2020 11:28:13 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:28:13 - root - DEBUG - Config file has been read
+05/08/2020 11:37:11 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:37:11 - root - DEBUG - Config file has been read
+05/08/2020 11:37:44 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:37:44 - root - DEBUG - Config file has been read
+05/08/2020 11:38:48 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:38:48 - root - DEBUG - Config file has been read
+05/08/2020 11:40:47 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:40:47 - root - DEBUG - Config file has been read
+05/08/2020 11:44:52 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 11:44:52 - root - DEBUG - Config file has been read
+05/08/2020 12:04:00 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:04:00 - root - DEBUG - Config file has been read
+05/08/2020 12:05:27 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:05:27 - root - DEBUG - Config file has been read
+05/08/2020 12:08:06 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:11:01 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:11:01 - root - DEBUG - Config file has been read
+05/08/2020 12:11:30 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:11:30 - root - DEBUG - Config file has been read
+05/08/2020 12:12:00 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 12:12:00 - root - DEBUG - Config file has been read
+05/08/2020 14:14:47 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 14:14:47 - root - DEBUG - Config file has been read
+05/08/2020 14:14:47 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:14:50 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /rest/satellite-network/collect?property=id HTTP/1.1" 200 104
+05/08/2020 14:14:50 - root - DEBUG - Connection to Dialog is ok
+05/08/2020 14:14:50 - root - INFO - GET CMS modems from 1 to 100
+05/08/2020 14:14:50 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:14:51 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /rest/modem/collect?satelliteNetworkId=2800&property=macAddress&property=remoteGuiUrl&locked=False&start=0&limit=100 HTTP/1.1" 200 146
+05/08/2020 14:14:51 - root - DEBUG - Adding retrieved modems to the list
+05/08/2020 14:14:51 - root - DEBUG - Reading modems from the file modems.csv
+05/08/2020 14:14:51 - root - DEBUG - Modem with MacAddress 00:06:39:08:f6:c2 was added to the to-process list
+05/08/2020 14:14:51 - root - DEBUG - Reading modems from the file processed_modems.csv
+05/08/2020 14:14:51 - root - WARNING - The number of modems to process: 1
+05/08/2020 14:14:51 - root - DEBUG - Opening file processed_modems.csv for writing (append)
+05/08/2020 14:14:51 - root - INFO - Processing modem 00:06:39:08:f6:c2
+05/08/2020 14:14:51 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:14:53 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /remote-gui/ECOXIF_ENCL-1/tcs-1-0/domain-133/terminal-941/cgi-bin/cgiclient?request=%7B%22FunctionName%22%3A%22GetAirMACAddress%22%7D HTTP/1.1" 200 98
+05/08/2020 14:14:53 - root - ERROR - Exception in SingleModem module
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Modem migration/igor/ChangeSatConfig.py", line 509, in ProcessAndWriteModems
+    reply = ProcessSingleModem(rest, url, mainCarrier, altCarrier, config['checkAfterChange'],
+  File "C:\Users\zwen.073111-PC\dialog\Modem migration\igor\ChangeSatConfigSingleModem.py", line 50, in ProcessSingleModem
+    if airmac.lower() != airMACAddress.lower():
+AttributeError: 'dict' object has no attribute 'lower'
+05/08/2020 14:14:53 - root - WARNING - Modem 00:06:39:08:f6:c2 was not processed
+05/08/2020 14:14:53 - root - DEBUG - Pause for 1 seconds
+05/08/2020 14:24:34 - root - DEBUG - **** ChangeSatConfig v.3.1. Start of log ****
+05/08/2020 14:24:34 - root - DEBUG - Config file has been read
+05/08/2020 14:24:34 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:24:35 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /rest/satellite-network/collect?property=id HTTP/1.1" 200 104
+05/08/2020 14:24:35 - root - DEBUG - Connection to Dialog is ok
+05/08/2020 14:24:35 - root - INFO - GET CMS modems from 1 to 100
+05/08/2020 14:24:35 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:24:36 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /rest/modem/collect?satelliteNetworkId=2800&property=macAddress&property=remoteGuiUrl&locked=False&start=0&limit=100 HTTP/1.1" 200 146
+05/08/2020 14:24:36 - root - DEBUG - Adding retrieved modems to the list
+05/08/2020 14:24:36 - root - DEBUG - Reading modems from the file modems.csv
+05/08/2020 14:24:36 - root - DEBUG - Modem with MacAddress 00:06:39:08:f6:c2 was added to the to-process list
+05/08/2020 14:24:36 - root - DEBUG - Reading modems from the file processed_modems.csv
+05/08/2020 14:24:36 - root - WARNING - The number of modems to process: 1
+05/08/2020 14:24:36 - root - DEBUG - Opening file processed_modems.csv for writing (append)
+05/08/2020 14:24:36 - root - INFO - Processing modem 00:06:39:08:f6:c2
+05/08/2020 14:24:36 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.80.45:80
+05/08/2020 14:24:40 - urllib3.connectionpool - DEBUG - http://192.168.80.45:80 "GET /remote-gui/ECOXIF_ENCL-1/tcs-1-0/domain-133/terminal-941/cgi-bin/cgiclient?request=%7B%22FunctionName%22%3A%22GetAirMACAddress%22%7D HTTP/1.1" 200 None
+05/08/2020 14:24:40 - root - ERROR - Exception in SingleModem module
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Modem migration/igor/ChangeSatConfig.py", line 519, in ProcessAndWriteModems
+    reply = ProcessSingleModem(rest, url, mainCarrier, altCarrier, config['checkAfterChange'],
+  File "C:\Users\zwen.073111-PC\dialog\Modem migration\igor\ChangeSatConfigSingleModem.py", line 50, in ProcessSingleModem
+    if airmac.lower() != airMACAddress.lower():
+AttributeError: 'dict' object has no attribute 'lower'
+05/08/2020 14:24:40 - root - WARNING - Modem 00:06:39:08:f6:c2 was not processed
+05/08/2020 14:24:40 - root - DEBUG - Pause for 1 seconds
+05/08/2020 14:24:41 - root - INFO - **** Done. Number of modems left = 1 ****

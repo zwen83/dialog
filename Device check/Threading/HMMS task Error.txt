@@ -1,0 +1,21 @@
+Report:
+
++------------+------------+-----------------------------------------------------------------+
+| hm         | enclosure  | errors                                                          |
++------------+------------+-----------------------------------------------------------------+
+| NMS        | -          | CMS-1 dma_device_manager.log: 2                                 |
+| KAC_BHI-1  | 2          |                                                                 |
+| KAC_BHI-1  | 1          |                                                                 |
+| KAC_BHI-1  | 3          |                                                                 |
+| KAC_BHI-2  | 2          |                                                                 |
+| KAC_BHI-2  | 1          |                                                                 |
+| KAC_BHI-2  | 3          |                                                                 |
+| KAC_JAV-1  | 1          | REDCTL-0-2 redctl_proc.log: 12, REDCTL-0-1 redctl_proc.log: 12  |
+| KAC_JAV-1  | 2          | REDCTL-1-1 redctl_proc.log: 24                                  |
+| KAC_JAV-2  | 1          | REDCTL-0-2 redctl_proc.log: 12, REDCTL-0-1 redctl_proc.log: 12  |
+| KAC_JAV-2  | 2          | REDCTL-1-2 redctl_proc.log: 24, REDCTL-1-1 redctl_proc.log: 24  |
+| KAC_SUB-1  | 2          |                                                                 |
+| KAC_SUB-1  | 1          |                                                                 |
+| KAC_SUB-2  | 1          |                                                                 |
+| KAC_SUB-2  | 2          |                                                                 |
++------------+------------+-----------------------------------------------------------------+

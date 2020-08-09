@@ -1,0 +1,461 @@
+2020-05-25 10:08:13,268 - __main__ - INFO - Start
+2020-05-25 10:08:13,269 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:08:20,510 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:08:27,642 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:08:36,841 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:09:04,057 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:09:19,831 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:09:34,712 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:09:49,064 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:10:18,272 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:10:39,181 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:10:48,506 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:11:11,425 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:11:17,834 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:11:45,174 - __main__ - INFO - Count: 1
+2020-05-25 10:11:45,175 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:12:20,709 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:12:22,986 - __main__ - INFO - Count: 2
+2020-05-25 10:12:22,987 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:12:34,724 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:12:50,582 - __main__ - INFO - Count: 3
+2020-05-25 10:12:50,582 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:13:00,727 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:13:03,027 - __main__ - INFO - Count: 4
+2020-05-25 10:13:03,028 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:13:37,004 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:13:40,137 - __main__ - INFO - Count: 5
+2020-05-25 10:13:40,138 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:13:52,863 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:14:06,446 - __main__ - INFO - Count: 6
+2020-05-25 10:14:06,447 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:14:16,141 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:14:31,093 - __main__ - INFO - Count: 7
+2020-05-25 10:14:31,093 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:14:38,072 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:14:38,073 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:14:50,154 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:14:50,154 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:14:53,561 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:14:53,561 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:15:07,246 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:07,247 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:15:10,830 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:10,831 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:15:20,343 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:20,343 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:15:31,659 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:31,660 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:15:49,600 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:49,601 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:15:53,284 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:53,284 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:15:57,064 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:15:57,064 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:16:12,458 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:16:12,458 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:16:28,905 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:16:28,905 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:16:42,972 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:16:42,972 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-1_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:17:04,479 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:04,480 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:17:14,058 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:14,059 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:17:18,137 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:18,137 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:17:23,469 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:23,469 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:17:29,251 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:29,252 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:17:35,122 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:35,123 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:17:55,909 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:17:55,909 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:18:00,341 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:18:00,342 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:18:18,572 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:18:18,572 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:18:24,366 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:18:24,366 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:18:36,472 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:18:51,859 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:18:58,068 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:19:01,040 - __main__ - INFO - Count: 8
+2020-05-25 10:19:01,041 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:19:06,981 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:19:09,496 - __main__ - INFO - Count: 9
+2020-05-25 10:19:09,496 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:19:26,508 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:19:33,175 - __main__ - INFO - Count: 10
+2020-05-25 10:19:33,176 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:19:44,746 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:19:48,435 - __main__ - INFO - Count: 11
+2020-05-25 10:19:48,436 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:20:04,618 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:20:07,007 - __main__ - INFO - Count: 12
+2020-05-25 10:20:07,007 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:20:23,561 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:20:25,785 - __main__ - INFO - Count: 13
+2020-05-25 10:20:25,786 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:20:32,972 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:20:35,201 - __main__ - INFO - Count: 14
+2020-05-25 10:20:35,202 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:20:40,082 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:20:40,082 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:20:44,497 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:20:44,498 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:20:48,513 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:20:48,513 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:21:03,372 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:21:07,630 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:07,630 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:21:11,675 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:11,676 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:21:16,135 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:16,136 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:21:20,182 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:20,183 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:21:24,724 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:24,725 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:21:28,478 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:28,478 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:21:32,776 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:32,777 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:21:37,161 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:37,162 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:21:40,863 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:40,864 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-2_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:21:44,779 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:21:44,780 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:21:51,155 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:21:53,586 - __main__ - INFO - Count: 15
+2020-05-25 10:21:53,587 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:21:59,451 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:01,228 - __main__ - INFO - Count: 16
+2020-05-25 10:22:01,229 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:22:05,616 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:07,173 - __main__ - INFO - Count: 17
+2020-05-25 10:22:07,173 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:22:12,856 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:14,464 - __main__ - INFO - Count: 18
+2020-05-25 10:22:14,465 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:22:20,561 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:22,229 - __main__ - INFO - Count: 19
+2020-05-25 10:22:22,230 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:22:28,830 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:30,515 - __main__ - INFO - Count: 20
+2020-05-25 10:22:30,516 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:22:35,018 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:36,919 - __main__ - INFO - Count: 21
+2020-05-25 10:22:36,920 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:22:42,005 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:45,487 - __main__ - INFO - Count: 22
+2020-05-25 10:22:45,488 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:22:50,575 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:22:52,377 - __main__ - INFO - Count: 23
+2020-05-25 10:22:52,378 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:22:58,362 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:23:00,110 - __main__ - INFO - Count: 24
+2020-05-25 10:23:00,111 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:23:06,550 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:23:10,991 - __main__ - INFO - Count: 25
+2020-05-25 10:23:10,992 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:23:16,991 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:23:18,613 - __main__ - INFO - Count: 26
+2020-05-25 10:23:18,614 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:23:25,609 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:23:27,165 - __main__ - INFO - Count: 27
+2020-05-25 10:23:27,165 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:23:33,216 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:23:39,887 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:23:46,342 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:23:50,704 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:23:50,704 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:23:53,824 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:23:53,824 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:23:57,274 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:23:57,274 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:24:00,846 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:00,847 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:24:04,746 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:04,746 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:24:09,102 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:09,102 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:24:14,191 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:14,191 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:24:19,601 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:19,602 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:24:22,789 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:22,790 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:24:26,068 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:26,068 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:24:28,930 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:28,931 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:24:35,587 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:24:35,587 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:25:06,388 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:25:06,389 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:25:12,917 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:25:19,120 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-1_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:25:25,132 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:25:38,482 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:25:47,835 - __main__ - INFO - Count: 28
+2020-05-25 10:25:47,835 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:25:53,295 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:25:55,749 - __main__ - INFO - Count: 29
+2020-05-25 10:25:55,750 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:26:11,851 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:26:14,813 - __main__ - INFO - Count: 30
+2020-05-25 10:26:14,814 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:26:24,449 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:26:27,372 - __main__ - INFO - Count: 31
+2020-05-25 10:26:27,372 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:26:36,961 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:26:40,476 - __main__ - INFO - Count: 32
+2020-05-25 10:26:40,476 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:26:47,431 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:26:52,026 - __main__ - INFO - Count: 33
+2020-05-25 10:26:52,027 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:26:58,848 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:27:02,215 - __main__ - INFO - Count: 34
+2020-05-25 10:27:02,216 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:27:07,940 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:27:10,009 - __main__ - INFO - Count: 35
+2020-05-25 10:27:10,010 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:27:15,418 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:27:17,947 - __main__ - INFO - Count: 36
+2020-05-25 10:27:17,948 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:27:21,560 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:27:21,560 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:27:25,125 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:27:25,126 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:27:29,382 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:27:29,383 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:27:35,879 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:27:42,877 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:27:45,109 - __main__ - INFO - Count: 37
+2020-05-25 10:27:45,110 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:27:50,524 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:27:53,433 - __main__ - INFO - Count: 38
+2020-05-25 10:27:53,433 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:28:01,864 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:28:05,056 - __main__ - INFO - Count: 39
+2020-05-25 10:28:05,057 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:28:11,989 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:28:14,116 - __main__ - INFO - Count: 40
+2020-05-25 10:28:14,117 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:28:20,788 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:28:23,813 - __main__ - INFO - Count: 41
+2020-05-25 10:28:23,814 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:28:28,079 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:28,079 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:28:32,252 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:32,253 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:28:36,832 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:36,832 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:28:40,571 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:40,572 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:28:44,637 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:44,638 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:28:48,954 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:48,954 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:28:52,854 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:52,855 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:28:57,315 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:28:57,316 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:29:02,518 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:02,518 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:29:06,272 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:06,273 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:29:10,119 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:10,119 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:29:14,510 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:14,511 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:29:19,826 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:19,826 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:29:24,049 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:29:24,049 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-1/cgi-bin/pogui/
+2020-05-25 10:29:31,018 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:29:32,999 - __main__ - INFO - Count: 42
+2020-05-25 10:29:33,000 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-2/cgi-bin/pogui/
+2020-05-25 10:29:37,971 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:29:40,671 - __main__ - INFO - Count: 43
+2020-05-25 10:29:40,672 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-3/cgi-bin/pogui/
+2020-05-25 10:29:48,064 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:29:50,933 - __main__ - INFO - Count: 44
+2020-05-25 10:29:50,934 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-4/cgi-bin/pogui/
+2020-05-25 10:29:59,088 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:30:01,217 - __main__ - INFO - Count: 45
+2020-05-25 10:30:01,217 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-5/cgi-bin/pogui/
+2020-05-25 10:30:07,491 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:30:15,666 - __main__ - INFO - Count: 46
+2020-05-25 10:30:15,667 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-6/cgi-bin/pogui/
+2020-05-25 10:30:26,839 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-7/cgi-bin/pogui/
+2020-05-25 10:30:34,125 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-8/cgi-bin/pogui/
+2020-05-25 10:30:40,450 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-9/cgi-bin/pogui/
+2020-05-25 10:30:47,648 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-10/cgi-bin/pogui/
+2020-05-25 10:30:54,216 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-11/cgi-bin/pogui/
+2020-05-25 10:31:01,453 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-12/cgi-bin/pogui/
+2020-05-25 10:31:08,995 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-13/cgi-bin/pogui/
+2020-05-25 10:31:24,978 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-14/cgi-bin/pogui/
+2020-05-25 10:31:32,002 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-15/cgi-bin/pogui/
+2020-05-25 10:31:39,726 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-16/cgi-bin/pogui/
+2020-05-25 10:31:46,507 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-17/cgi-bin/pogui/
+2020-05-25 10:31:50,213 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:31:50,214 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-18/cgi-bin/pogui/
+2020-05-25 10:31:55,234 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-19/cgi-bin/pogui/
+2020-05-25 10:31:59,218 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:31:59,218 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-20/cgi-bin/pogui/
+2020-05-25 10:32:03,170 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:03,170 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-21/cgi-bin/pogui/
+2020-05-25 10:32:06,675 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:06,676 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-22/cgi-bin/pogui/
+2020-05-25 10:32:10,836 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:10,837 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-23/cgi-bin/pogui/
+2020-05-25 10:32:15,426 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:15,427 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-24/cgi-bin/pogui/
+2020-05-25 10:32:20,455 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:20,456 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-25/cgi-bin/pogui/
+2020-05-25 10:32:27,846 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-26/cgi-bin/pogui/
+2020-05-25 10:32:35,024 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-27/cgi-bin/pogui/
+2020-05-25 10:32:39,142 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:39,142 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-28/cgi-bin/pogui/
+2020-05-25 10:32:43,703 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:43,704 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-29/cgi-bin/pogui/
+2020-05-25 10:32:49,840 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:49,841 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-30/cgi-bin/pogui/
+2020-05-25 10:32:54,196 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:32:54,197 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-31/cgi-bin/pogui/
+2020-05-25 10:33:01,222 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_BHI-1_ENCL-1/DEV-2-32/cgi-bin/pogui/
+2020-05-25 10:33:08,387 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:33:14,996 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:33:20,240 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:33:21,872 - __main__ - INFO - Count: 47
+2020-05-25 10:33:21,872 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:33:27,434 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:33:29,361 - __main__ - INFO - Count: 48
+2020-05-25 10:33:29,363 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:33:35,142 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:33:36,820 - __main__ - INFO - Count: 49
+2020-05-25 10:33:36,820 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:33:42,214 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:33:45,264 - __main__ - INFO - Count: 50
+2020-05-25 10:33:45,265 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:33:51,840 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:33:53,357 - __main__ - INFO - Count: 51
+2020-05-25 10:33:53,358 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:33:58,721 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:34:00,396 - __main__ - INFO - Count: 52
+2020-05-25 10:34:00,396 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:34:07,438 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:34:09,937 - __main__ - INFO - Count: 53
+2020-05-25 10:34:09,938 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:34:14,634 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:34:16,322 - __main__ - INFO - Count: 54
+2020-05-25 10:34:16,322 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:34:20,825 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:34:22,522 - __main__ - INFO - Count: 55
+2020-05-25 10:34:22,522 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:34:28,398 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:34:34,022 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:34:41,968 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:34:48,922 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:34:55,573 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:35:02,507 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:35:05,468 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:05,468 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:35:08,974 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:08,974 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:35:13,793 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:13,793 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:35:17,311 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:17,312 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:35:20,664 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:20,665 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:35:23,685 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:23,686 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:35:28,020 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:28,020 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:35:31,815 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:31,816 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:35:34,837 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:34,837 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:35:37,643 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:35:37,643 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:35:44,154 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:35:52,837 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:35:59,429 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:36:05,439 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:36:13,150 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_SUB-2_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:36:19,488 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-1/cgi-bin/pogui/
+2020-05-25 10:36:24,338 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:36:34,200 - __main__ - INFO - Count: 56
+2020-05-25 10:36:34,201 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-2/cgi-bin/pogui/
+2020-05-25 10:36:40,626 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:36:42,425 - __main__ - INFO - Count: 57
+2020-05-25 10:36:42,426 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-3/cgi-bin/pogui/
+2020-05-25 10:36:47,882 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:36:49,499 - __main__ - INFO - Count: 58
+2020-05-25 10:36:49,499 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-4/cgi-bin/pogui/
+2020-05-25 10:36:54,304 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:36:56,425 - __main__ - INFO - Count: 59
+2020-05-25 10:36:56,426 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-5/cgi-bin/pogui/
+2020-05-25 10:37:01,663 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:37:03,928 - __main__ - INFO - Count: 60
+2020-05-25 10:37:03,928 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-6/cgi-bin/pogui/
+2020-05-25 10:37:08,506 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:37:10,441 - __main__ - INFO - Count: 61
+2020-05-25 10:37:10,441 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-7/cgi-bin/pogui/
+2020-05-25 10:37:15,108 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:37:16,673 - __main__ - INFO - Count: 62
+2020-05-25 10:37:16,673 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-8/cgi-bin/pogui/
+2020-05-25 10:37:23,322 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-9/cgi-bin/pogui/
+2020-05-25 10:37:29,852 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-10/cgi-bin/pogui/
+2020-05-25 10:37:35,352 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:37:35,353 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-11/cgi-bin/pogui/
+2020-05-25 10:37:42,795 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-12/cgi-bin/pogui/
+2020-05-25 10:37:49,353 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-13/cgi-bin/pogui/
+2020-05-25 10:37:55,748 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-14/cgi-bin/pogui/
+2020-05-25 10:38:01,020 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:38:02,717 - __main__ - INFO - Count: 63
+2020-05-25 10:38:02,718 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-15/cgi-bin/pogui/
+2020-05-25 10:38:09,924 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:38:12,087 - __main__ - INFO - Count: 64
+2020-05-25 10:38:12,087 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-16/cgi-bin/pogui/
+2020-05-25 10:38:18,203 - __main__ - INFO - Get MCM7500 spcific information.
+2020-05-25 10:38:20,177 - __main__ - INFO - Count: 65
+2020-05-25 10:38:20,178 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-17/cgi-bin/pogui/
+2020-05-25 10:38:23,950 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:23,950 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-18/cgi-bin/pogui/
+2020-05-25 10:38:27,185 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:27,185 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-19/cgi-bin/pogui/
+2020-05-25 10:38:31,200 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:31,201 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-20/cgi-bin/pogui/
+2020-05-25 10:38:34,612 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:34,612 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-21/cgi-bin/pogui/
+2020-05-25 10:38:37,753 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:37,754 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-22/cgi-bin/pogui/
+2020-05-25 10:38:41,079 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:41,080 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-23/cgi-bin/pogui/
+2020-05-25 10:38:44,431 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:44,432 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-24/cgi-bin/pogui/
+2020-05-25 10:38:47,631 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:47,632 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-25/cgi-bin/pogui/
+2020-05-25 10:38:50,406 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:50,407 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-26/cgi-bin/pogui/
+2020-05-25 10:38:53,297 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:53,298 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-27/cgi-bin/pogui/
+2020-05-25 10:38:56,666 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:38:56,667 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-28/cgi-bin/pogui/
+2020-05-25 10:39:01,095 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:39:01,096 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-29/cgi-bin/pogui/
+2020-05-25 10:39:04,111 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:39:04,111 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-30/cgi-bin/pogui/
+2020-05-25 10:39:07,265 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:39:07,265 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-31/cgi-bin/pogui/
+2020-05-25 10:39:10,637 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:39:10,637 - __main__ - INFO - http://10.255.0.63:35006/remote-gui/KAC_JAV-2_ENCL-1/DEV-1-32/cgi-bin/pogui/
+2020-05-25 10:39:14,125 - __main__ - WARNING - Model not matching, skip!
+2020-05-25 10:39:14,126 - __main__ - INFO - Done. Total: 65
+2020-05-25 10:39:14,126 - __main__ - INFO - Write to mod_result2.csv

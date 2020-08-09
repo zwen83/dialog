@@ -1,0 +1,293 @@
+29/02/2020 09:14:43 - root - DEBUG - Config file has been read
+29/02/2020 09:15:20 - root - DEBUG - Config file has been read
+29/02/2020 14:37:04 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 14:37:04 - root - DEBUG - Config file has been read
+29/02/2020 14:37:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:05 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 14:37:05 - root - INFO - Processing Infokom2
+29/02/2020 14:37:05 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:06 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 182
+29/02/2020 14:37:06 - root - DEBUG - Current oplog = 1582958463958
+29/02/2020 14:37:06 - root - DEBUG - No cache file found
+29/02/2020 14:37:06 - root - DEBUG - Infokom2: Oplog is different, reading all the hub info
+29/02/2020 14:37:06 - root - INFO - GET CMS modems from 1 to 500
+29/02/2020 14:37:06 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:08 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/modem/collect?limit=500&start=0&property=macAddress&property=id&property=locked&property=satelliteNetworkConfigurations&property=satelliteNetworkId&property=attachment&property=serviceProfileId HTTP/1.1" 200 None
+29/02/2020 14:37:10 - root - DEBUG - Adding retrieved modems to the list
+29/02/2020 14:37:10 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:13 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/hub-module/collect?property=id&property=locked&property=hubModuleType&property=enclosures&property=physicalSatNets HTTP/1.1" 200 None
+29/02/2020 14:37:13 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 14:37:13 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv
+29/02/2020 14:37:13 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:14 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv HTTP/1.1" 200 2709
+29/02/2020 14:37:57 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 14:37:57 - root - DEBUG - Config file has been read
+29/02/2020 14:37:57 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:37:57 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 14:37:57 - root - INFO - Processing Infokom2
+29/02/2020 14:37:57 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:38:00 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 181
+29/02/2020 14:38:00 - root - DEBUG - Current oplog = 1582958658195
+29/02/2020 14:38:00 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 14:38:00 - root - DEBUG - Infokom2: Oplog is different, reading all the hub info
+29/02/2020 14:38:00 - root - INFO - GET CMS modems from 1 to 500
+29/02/2020 14:38:00 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:38:02 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/modem/collect?start=0&limit=500&property=macAddress&property=id&property=locked&property=satelliteNetworkConfigurations&property=satelliteNetworkId&property=attachment&property=serviceProfileId HTTP/1.1" 200 None
+29/02/2020 14:38:04 - root - DEBUG - Adding retrieved modems to the list
+29/02/2020 14:38:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:38:05 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/hub-module/collect?property=id&property=locked&property=hubModuleType&property=enclosures&property=physicalSatNets HTTP/1.1" 200 None
+29/02/2020 14:38:07 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 14:38:07 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv
+29/02/2020 14:38:07 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:38:10 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv HTTP/1.1" 200 2709
+29/02/2020 14:40:11 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 14:40:11 - root - DEBUG - Config file has been read
+29/02/2020 14:40:11 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:40:12 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 14:40:12 - root - INFO - Processing Infokom2
+29/02/2020 14:40:12 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:40:15 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 181
+29/02/2020 14:40:15 - root - DEBUG - Current oplog = 1582958658195
+29/02/2020 14:40:15 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 14:40:15 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 14:40:15 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv
+29/02/2020 14:40:15 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:40:18 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290625.csv HTTP/1.1" 200 2709
+29/02/2020 14:40:19 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 14:40:29 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 14:40:29 - root - DEBUG - Infokom2: Successfully exported to "Terminals"
+29/02/2020 14:40:33 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 14:40:33 - root - DEBUG - Infokom2: Successfully exported totals to "Dialog_totals"
+29/02/2020 14:40:36 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290630.csv
+29/02/2020 14:40:36 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:40:40 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290630.csv HTTP/1.1" 200 2682
+29/02/2020 14:41:09 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 14:41:09 - root - DEBUG - Infokom2: Successfully exported to "Terminals"
+29/02/2020 14:41:10 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 14:41:10 - root - DEBUG - Infokom2: Successfully exported totals to "Dialog_totals"
+29/02/2020 14:41:13 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290635.csv
+29/02/2020 14:41:13 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 14:41:14 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002290635.csv HTTP/1.1" 200 2705
+29/02/2020 14:41:33 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 14:41:33 - root - DEBUG - Infokom2: Successfully exported to "Terminals"
+29/02/2020 14:41:34 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 14:41:34 - root - DEBUG - Infokom2: Successfully exported totals to "Dialog_totals"
+29/02/2020 14:41:38 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 14:41:38 - root - ERROR - Exception while loading "HRC ModCods" file
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 351, in saveHRCstate
+    with open('HRC ModCods') as fR:
+FileNotFoundError: [Errno 2] No such file or directory: 'HRC ModCods'
+29/02/2020 22:33:56 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 22:33:56 - root - DEBUG - Config file has been read
+29/02/2020 22:33:56 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:33:56 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 22:33:56 - root - INFO - Processing Infokom2
+29/02/2020 22:33:56 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:33:59 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 179
+29/02/2020 22:33:59 - root - DEBUG - Current oplog = 1582985590053
+29/02/2020 22:33:59 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 22:33:59 - root - DEBUG - Infokom2: Oplog is different, reading all the hub info
+29/02/2020 22:33:59 - root - INFO - GET CMS modems from 1 to 500
+29/02/2020 22:33:59 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:34:03 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/modem/collect?property=macAddress&property=id&property=locked&property=satelliteNetworkConfigurations&property=satelliteNetworkId&property=attachment&property=serviceProfileId&start=0&limit=500 HTTP/1.1" 200 None
+29/02/2020 22:34:05 - root - DEBUG - Adding retrieved modems to the list
+29/02/2020 22:34:05 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:34:05 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/hub-module/collect?property=id&property=locked&property=hubModuleType&property=enclosures&property=physicalSatNets HTTP/1.1" 200 None
+29/02/2020 22:34:05 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:34:05 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291420.csv
+29/02/2020 22:34:05 - root - ERROR - Infokom2: Exception during getting the performance file "/remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291420.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:34:05 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291425.csv
+29/02/2020 22:34:05 - root - ERROR - Infokom2: Exception during getting the performance file "/remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291425.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:34:05 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291430.csv
+29/02/2020 22:34:05 - root - ERROR - Infokom2: Exception during getting the performance file "/remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291430.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:34:05 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 22:34:07 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:34:07 - root - ERROR - Exception while loading "HRC ModCods" file
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 351, in saveHRCstate
+    with open('HRC ModCods') as fR:
+FileNotFoundError: [Errno 2] No such file or directory: 'HRC ModCods'
+29/02/2020 22:43:32 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 22:43:32 - root - DEBUG - Config file has been read
+29/02/2020 22:43:32 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:43:32 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 22:43:32 - root - INFO - Processing Infokom1
+29/02/2020 22:43:32 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:43:32 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/oplog HTTP/1.1" 200 184
+29/02/2020 22:43:32 - root - DEBUG - Current oplog = 1582860154272
+29/02/2020 22:43:32 - root - DEBUG - No cache file found
+29/02/2020 22:43:32 - root - DEBUG - Infokom1: Oplog is different, reading all the hub info
+29/02/2020 22:43:32 - root - INFO - GET CMS modems from 1 to 500
+29/02/2020 22:43:32 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:43:34 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/modem/collect?start=0&property=macAddress&property=id&property=locked&property=satelliteNetworkConfigurations&property=satelliteNetworkId&property=attachment&property=serviceProfileId&limit=500 HTTP/1.1" 200 None
+29/02/2020 22:43:34 - root - DEBUG - Adding retrieved modems to the list
+29/02/2020 22:43:34 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:43:37 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/hub-module/collect?property=id&property=locked&property=hubModuleType&property=enclosures&property=physicalSatNets HTTP/1.1" 200 953
+29/02/2020 22:43:38 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:43:38 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291430.csv
+29/02/2020 22:43:38 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291430.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:43:38 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291435.csv
+29/02/2020 22:43:38 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291435.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:43:38 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291440.csv
+29/02/2020 22:43:38 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291440.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 491, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+29/02/2020 22:43:38 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 22:43:38 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:43:38 - root - ERROR - Exception while loading "HRC ModCods" file
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 351, in saveHRCstate
+    with open('HRC ModCods') as fR:
+FileNotFoundError: [Errno 2] No such file or directory: 'HRC ModCods'
+29/02/2020 22:45:26 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 22:45:26 - root - DEBUG - Config file has been read
+29/02/2020 22:45:26 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:45:26 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 22:45:26 - root - INFO - Processing Infokom2
+29/02/2020 22:45:26 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:45:27 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 179
+29/02/2020 22:45:27 - root - DEBUG - Current oplog = 1582985590053
+29/02/2020 22:45:27 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 22:45:27 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:45:27 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291430.csv
+29/02/2020 22:45:27 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:45:29 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291430.csv HTTP/1.1" 200 None
+29/02/2020 22:45:30 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 22:46:19 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 22:46:19 - root - DEBUG - Config file has been read
+29/02/2020 22:46:19 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:46:23 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 22:46:23 - root - INFO - Processing Infokom2
+29/02/2020 22:46:24 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:46:39 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /rest/oplog HTTP/1.1" 200 179
+29/02/2020 22:46:39 - root - DEBUG - Current oplog = 1582985590053
+29/02/2020 22:46:39 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 22:46:40 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:46:40 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291435.csv
+29/02/2020 22:46:40 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:46:40 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291435.csv HTTP/1.1" 200 None
+29/02/2020 22:46:45 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 22:47:07 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 22:47:07 - root - DEBUG - Infokom2: Successfully exported to "Terminals"
+29/02/2020 22:47:07 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 22:47:07 - root - DEBUG - Infokom2: Successfully exported totals to "Dialog_totals"
+29/02/2020 22:47:10 - root - INFO - Infokom2: Processing /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291440.csv
+29/02/2020 22:47:10 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:47:11 - urllib3.connectionpool - DEBUG - http://192.168.48.42:38006 "GET /remote-gui/HM1/HMGW-0-0/mc/performance/performance_202002291440.csv HTTP/1.1" 200 None
+29/02/2020 22:47:24 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 22:47:24 - root - DEBUG - Config file has been read
+29/02/2020 22:47:24 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:47:25 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 22:47:25 - root - INFO - Processing Infokom1
+29/02/2020 22:47:25 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:47:25 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/oplog HTTP/1.1" 200 184
+29/02/2020 22:47:25 - root - DEBUG - Current oplog = 1582860154272
+29/02/2020 22:47:25 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 22:47:33 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 22:47:33 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291435.csv
+29/02/2020 22:47:33 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:47:33 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291435.csv HTTP/1.1" 200 None
+29/02/2020 22:47:34 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 22:47:45 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 22:47:45 - root - DEBUG - Infokom1: Successfully exported to "Terminals"
+29/02/2020 22:47:46 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 22:47:46 - root - DEBUG - Infokom1: Successfully exported totals to "Dialog_totals"
+29/02/2020 22:47:49 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291440.csv
+29/02/2020 22:47:49 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 22:47:50 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291440.csv HTTP/1.1" 200 None
+29/02/2020 23:03:53 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+29/02/2020 23:03:53 - root - DEBUG - Config file has been read
+29/02/2020 23:03:53 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 23:03:53 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+29/02/2020 23:03:53 - root - INFO - Processing Infokom1
+29/02/2020 23:03:53 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 23:03:54 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/oplog HTTP/1.1" 200 184
+29/02/2020 23:03:54 - root - DEBUG - Current oplog = 1582860154272
+29/02/2020 23:03:54 - root - DEBUG - Cache loaded 3 objects
+29/02/2020 23:03:57 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 23:03:57 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291450.csv
+29/02/2020 23:03:57 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 23:04:01 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291450.csv HTTP/1.1" 200 2479
+29/02/2020 23:04:02 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+29/02/2020 23:04:13 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 23:04:13 - root - DEBUG - Infokom1: Successfully exported to "Terminals"
+29/02/2020 23:04:14 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 23:04:14 - root - DEBUG - Infokom1: Successfully exported totals to "Dialog_totals"
+29/02/2020 23:04:17 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291455.csv
+29/02/2020 23:04:17 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 23:04:18 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291455.csv HTTP/1.1" 200 None
+29/02/2020 23:04:26 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 23:04:26 - root - DEBUG - Infokom1: Successfully exported to "Terminals"
+29/02/2020 23:04:26 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 23:04:26 - root - DEBUG - Infokom1: Successfully exported totals to "Dialog_totals"
+29/02/2020 23:04:29 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291500.csv
+29/02/2020 23:04:29 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+29/02/2020 23:04:32 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202002291500.csv HTTP/1.1" 200 None
+29/02/2020 23:04:44 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Terminals HTTP/1.1" 204 0
+29/02/2020 23:04:44 - root - DEBUG - Infokom1: Successfully exported to "Terminals"
+29/02/2020 23:04:45 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "POST /write?db=Dialog_totals HTTP/1.1" 204 0
+29/02/2020 23:04:45 - root - DEBUG - Infokom1: Successfully exported totals to "Dialog_totals"
+29/02/2020 23:05:18 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+29/02/2020 23:05:18 - root - ERROR - Exception while loading "HRC ModCods" file
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 351, in saveHRCstate
+    with open('HRC ModCods') as fR:
+FileNotFoundError: [Errno 2] No such file or directory: 'HRC ModCods'
+01/03/2020 09:22:24 - root - DEBUG - **** Log start of __main__ v.5.0 ****
+01/03/2020 09:22:24 - root - DEBUG - Config file has been read
+01/03/2020 09:22:24 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+01/03/2020 09:22:24 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /ping HTTP/1.1" 204 0
+01/03/2020 09:22:24 - root - INFO - Processing Infokom1
+01/03/2020 09:22:24 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 192.168.48.42
+01/03/2020 09:22:25 - urllib3.connectionpool - DEBUG - http://192.168.48.42:39006 "GET /rest/oplog HTTP/1.1" 200 184
+01/03/2020 09:22:25 - root - DEBUG - Current oplog = 1582860154272
+01/03/2020 09:22:25 - root - DEBUG - Cache loaded 3 objects
+01/03/2020 09:22:25 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+01/03/2020 09:22:25 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010110.csv
+01/03/2020 09:22:25 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010110.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 490, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+01/03/2020 09:22:25 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010115.csv
+01/03/2020 09:22:25 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010115.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 490, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+01/03/2020 09:22:25 - root - INFO - Infokom1: Processing /remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010120.csv
+01/03/2020 09:22:25 - root - ERROR - Infokom1: Exception during getting the performance file "/remote-gui/INFOKOM2/HMGW-0-0/mc/performance/performance_202003010120.csv"
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 490, in ParsePerformance
+    performanceFile = rest.GETFILE(url)
+AttributeError: 'REST' object has no attribute 'GETFILE'
+01/03/2020 09:22:25 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 192.168.48.42
+01/03/2020 09:22:25 - urllib3.connectionpool - DEBUG - http://192.168.48.42:8086 "GET /query?q=SHOW+DATABASES HTTP/1.1" 200 None
+01/03/2020 09:22:25 - root - ERROR - Exception while loading "HRC ModCods" file
+Traceback (most recent call last):
+  File "C:/Users/zwen.073111-PC/dialog/Dialog2TSDB_updated_Igor.py", line 351, in saveHRCstate
+    with open('HRC ModCods') as fR:
+FileNotFoundError: [Errno 2] No such file or directory: 'HRC ModCods'

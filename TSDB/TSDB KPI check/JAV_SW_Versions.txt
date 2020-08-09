@@ -1,0 +1,626 @@
+[Executing file /usr/local/automate/scripts/operational/hub_dialog_versions.groovy on platform 'CMS-0' as user 'hno']
+[Filter mode is enabled, only hubmodules matching JAV* will be used. Experimental!]
+KAC_JAV-1 KAC_JAV-1.ENC-1 10.50.10.180
++------------+--------------+---------------------------------------------------------------------------------------------------------------------+
+| KAC_JAV-1  | BSC-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:33 UTC 2020               |
+| KAC_JAV-1  | BSC-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:55:10 UTC 2020               |
+| KAC_JAV-1  | HMGW-0-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:28 UTC 2020               |
+| KAC_JAV-1  | HMGW-0-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:28 UTC 2020               |
+| KAC_JAV-1  | LOG-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:05 UTC 2020               |
+| KAC_JAV-1  | LOG-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | MON-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:00 UTC 2020               |
+| KAC_JAV-1  | MON-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:01 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICSE-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:00 UTC 2020               |
+| KAC_JAV-1  | PGICSE-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGICSE-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDEM-1     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-2     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-3     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-4     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-5     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-6     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-7     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIHRCCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGITAS-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGITAS-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGITAS-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:06 UTC 2020               |
+| KAC_JAV-1  | PGITAS-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:06 UTC 2020               |
+| KAC_JAV-1  | PGITAS-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | PGITAS-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | PGITAS-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | REDCTL-0-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:33 UTC 2020               |
+| KAC_JAV-1  | REDCTL-0-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:31 UTC 2020               |
+| KAC_JAV-1  | TCS-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-2-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-2-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-3-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-3-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-4-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-4-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-5-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-5-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:31 UTC 2020               |
+| KAC_JAV-1  | TCS-6-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-6-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
++------------+--------------+---------------------------------------------------------------------------------------------------------------------+
+
+KAC_JAV-1 KAC_JAV-1.ENC-2 10.50.10.183
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+
+| KAC_JAV-1  | BSC-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:24 UTC 2020               |
+| KAC_JAV-1  | BSC-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:18 UTC 2020               |
+| KAC_JAV-1  | HMGW-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:54 UTC 2020               |
+| KAC_JAV-1  | HMGW-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:53 UTC 2020               |
+| KAC_JAV-1  | LOG-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | LOG-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | MON-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | MON-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICSE-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDEM-10     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-11     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-12     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-13     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-14     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-8      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-9      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIHRCCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-10   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-11   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-12   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-13   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-14   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-8    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-9    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGITAS-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGITAS-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGITAS-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:39 UTC 2020               |
+| KAC_JAV-1  | PGITAS-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGITAS-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGITAS-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGITAS-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | REDCTL-1-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | REDCTL-1-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:56 UTC 2020               |
+| KAC_JAV-1  | TCS-10-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:58 UTC 2020               |
+| KAC_JAV-1  | TCS-10-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-11-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-11-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:01 UTC 2020               |
+| KAC_JAV-1  | TCS-12-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-12-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:58 UTC 2020               |
+| KAC_JAV-1  | TCS-13-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-13-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-8-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-8-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-9-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-9-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+
+
+KAC_JAV-2 KAC_JAV-2.ENC-1 10.50.11.60
++------------+--------------+---------------------------------------------------------------------------------------------------------------------+
+| KAC_JAV-2  | BSC-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:03 UTC 2020               |
+| KAC_JAV-2  | BSC-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:48 UTC 2020               |
+| KAC_JAV-2  | HMGW-0-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:56 UTC 2020               |
+| KAC_JAV-2  | HMGW-0-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:55 UTC 2020               |
+| KAC_JAV-2  | LOG-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | LOG-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | MON-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | MON-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:42 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:44 UTC 2020               |
+| KAC_JAV-2  | PGICSE-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGICSE-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDEM-1     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-2     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-3     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-4     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-5     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-6     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-7     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIHRCCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-3  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-4  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-5  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-6  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-7  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGITAS-1     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGITAS-2     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGITAS-3     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:38 UTC 2020               |
+| KAC_JAV-2  | PGITAS-4     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGITAS-5     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | PGITAS-6     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | PGITAS-7     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | REDCTL-0-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | REDCTL-0-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-2-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-2-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-3-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | TCS-3-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-4-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | TCS-4-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-5-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-5-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-6-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-6-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
++------------+--------------+---------------------------------------------------------------------------------------------------------------------+
+
+KAC_JAV-2 KAC_JAV-2.ENC-2 10.50.11.63
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+
+| KAC_JAV-2  | BSC-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:43 UTC 2020               |
+| KAC_JAV-2  | BSC-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:35 UTC 2020               |
+| KAC_JAV-2  | HMGW-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:17 UTC 2020               |
+| KAC_JAV-2  | HMGW-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:17 UTC 2020               |
+| KAC_JAV-2  | LOG-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | LOG-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | MON-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | MON-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:39 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:35 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:38 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:38 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:37 UTC 2020               |
+| KAC_JAV-2  | PGICSE-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGICSE-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICSE-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGICSE-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICSE-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:32 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDEM-10     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-11     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-12     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-8      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-9      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIHRCCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:32 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-10   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-11   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-12   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-8    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-9    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGITAS-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGITAS-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGITAS-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGITAS-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGITAS-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | REDCTL-1-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | REDCTL-1-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:51 UTC 2020               |
+| KAC_JAV-2  | TCS-10-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | TCS-10-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:53 UTC 2020               |
+| KAC_JAV-2  | TCS-11-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:47 UTC 2020               |
+| KAC_JAV-2  | TCS-11-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | TCS-8-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:48 UTC 2020               |
+| KAC_JAV-2  | TCS-8-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:46 UTC 2020               |
+| KAC_JAV-2  | TCS-9-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:54 UTC 2020               |
+| KAC_JAV-2  | TCS-9-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:53 UTC 2020               |
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+
+
+NMS 10.0.10.60
++------+----------+--------------------------------------------------------------------------------------------------------+
+| NMS  | BSC-0-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:02:35 UTC 2020  |
+| NMS  | BSC-0-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:07:30 UTC 2020  |
+| NMS  | CMS-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:32 UTC 2020  |
+| NMS  | CMS-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:30 UTC 2020  |
+| NMS  | LOG-0-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020  |
+| NMS  | LOG-0-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:22 UTC 2020  |
+| NMS  | MON-0-1  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020  |
+| NMS  | MON-0-2  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020  |
++------+----------+--------------------------------------------------------------------------------------------------------+
+
+
+Summary
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+
+| KAC_JAV-1  | BSC-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:33 UTC 2020               |
+| KAC_JAV-1  | BSC-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:55:10 UTC 2020               |
+| KAC_JAV-1  | HMGW-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:28 UTC 2020               |
+| KAC_JAV-1  | HMGW-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:28 UTC 2020               |
+| KAC_JAV-1  | LOG-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:05 UTC 2020               |
+| KAC_JAV-1  | LOG-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | MON-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:00 UTC 2020               |
+| KAC_JAV-1  | MON-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:01 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:14 UTC 2020               |
+| KAC_JAV-1  | PGICSE-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:00 UTC 2020               |
+| KAC_JAV-1  | PGICSE-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGICSE-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGICSE-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIDEM-1      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-2      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-3      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-4      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-5      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-6      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-7      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIHRCCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:02 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-3    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-4    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-5    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-6    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-7    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGITAS-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:03 UTC 2020               |
+| KAC_JAV-1  | PGITAS-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:04 UTC 2020               |
+| KAC_JAV-1  | PGITAS-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:06 UTC 2020               |
+| KAC_JAV-1  | PGITAS-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:06 UTC 2020               |
+| KAC_JAV-1  | PGITAS-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | PGITAS-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | PGITAS-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:07 UTC 2020               |
+| KAC_JAV-1  | REDCTL-0-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:33 UTC 2020               |
+| KAC_JAV-1  | REDCTL-0-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:31 UTC 2020               |
+| KAC_JAV-1  | TCS-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-2-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-2-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-3-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-3-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-4-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-4-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-5-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-5-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:31 UTC 2020               |
+| KAC_JAV-1  | TCS-6-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | TCS-6-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:04:30 UTC 2020               |
+| KAC_JAV-1  | BSC-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:24 UTC 2020               |
+| KAC_JAV-1  | BSC-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:18 UTC 2020               |
+| KAC_JAV-1  | HMGW-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:54 UTC 2020               |
+| KAC_JAV-1  | HMGW-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:53 UTC 2020               |
+| KAC_JAV-1  | LOG-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | LOG-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | MON-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | MON-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICPMCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGICSE-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGICSE-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDCP-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIDEM-10     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-11     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-12     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-13     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-14     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-8      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIDEM-9      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-1  | PGIHRCCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIHRCCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-10   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-11   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-12   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-13   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-14   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:35 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-8    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGIL2DEM-9    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-13  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-14  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGIS2XCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:36 UTC 2020               |
+| KAC_JAV-1  | PGITAS-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGITAS-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:37 UTC 2020               |
+| KAC_JAV-1  | PGITAS-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:39 UTC 2020               |
+| KAC_JAV-1  | PGITAS-13     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGITAS-14     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | PGITAS-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:41 UTC 2020               |
+| KAC_JAV-1  | PGITAS-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:40 UTC 2020               |
+| KAC_JAV-1  | REDCTL-1-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | REDCTL-1-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:56 UTC 2020               |
+| KAC_JAV-1  | TCS-10-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:58 UTC 2020               |
+| KAC_JAV-1  | TCS-10-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-11-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-11-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:01 UTC 2020               |
+| KAC_JAV-1  | TCS-12-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-12-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:58 UTC 2020               |
+| KAC_JAV-1  | TCS-13-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-13-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-1  | TCS-8-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-8-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-9-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:59 UTC 2020               |
+| KAC_JAV-1  | TCS-9-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:00 UTC 2020               |
+| KAC_JAV-2  | BSC-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:03 UTC 2020               |
+| KAC_JAV-2  | BSC-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:48 UTC 2020               |
+| KAC_JAV-2  | HMGW-0-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:56 UTC 2020               |
+| KAC_JAV-2  | HMGW-0-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:55 UTC 2020               |
+| KAC_JAV-2  | LOG-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | LOG-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | MON-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | MON-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:42 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:43 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:44 UTC 2020               |
+| KAC_JAV-2  | PGICSE-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGICSE-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGICSE-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:35 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIDEM-1      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-2      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-3      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-4      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-5      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-6      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-7      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIHRCCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-3    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-4    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-5    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-6    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-7    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-1   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:36 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-2   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-3   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-4   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-5   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-6   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-7   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGITAS-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:37 UTC 2020               |
+| KAC_JAV-2  | PGITAS-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGITAS-3      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:38 UTC 2020               |
+| KAC_JAV-2  | PGITAS-4      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:39 UTC 2020               |
+| KAC_JAV-2  | PGITAS-5      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | PGITAS-6      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | PGITAS-7      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:02:41 UTC 2020               |
+| KAC_JAV-2  | REDCTL-0-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | REDCTL-0-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-2-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-2-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-3-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | TCS-3-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-4-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:00 UTC 2020               |
+| KAC_JAV-2  | TCS-4-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:01 UTC 2020               |
+| KAC_JAV-2  | TCS-5-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-5-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-6-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | TCS-6-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:03:02 UTC 2020               |
+| KAC_JAV-2  | BSC-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:46:43 UTC 2020               |
+| KAC_JAV-2  | BSC-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 16:53:35 UTC 2020               |
+| KAC_JAV-2  | HMGW-1-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:17 UTC 2020               |
+| KAC_JAV-2  | HMGW-1-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:01:17 UTC 2020               |
+| KAC_JAV-2  | LOG-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | LOG-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | MON-1-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | MON-1-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:39 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:35 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:38 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:38 UTC 2020               |
+| KAC_JAV-2  | PGICPMCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:37 UTC 2020               |
+| KAC_JAV-2  | PGICSE-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGICSE-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICSE-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGICSE-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGICSE-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:32 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDCP-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIDEM-10     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-11     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-12     |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-8      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIDEM-9      |  Release: DIALOG CLOUD 2.2.1.3 C7DEM, Timestamp: 20200221202646, Image creation date: Fri Feb 21 21:24:10 UTC 2020  |
+| KAC_JAV-2  | PGIHRCCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIHRCCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:32 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-10   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-11   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-12   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-8    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIL2DEM-9    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-10  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-11  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-12  |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:33 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-8   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGIS2XCTL-9   |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGITAS-10     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:31 UTC 2020               |
+| KAC_JAV-2  | PGITAS-11     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGITAS-12     |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:30 UTC 2020               |
+| KAC_JAV-2  | PGITAS-8      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | PGITAS-9      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:29 UTC 2020               |
+| KAC_JAV-2  | REDCTL-1-1    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | REDCTL-1-2    |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:51 UTC 2020               |
+| KAC_JAV-2  | TCS-10-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | TCS-10-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:53 UTC 2020               |
+| KAC_JAV-2  | TCS-11-1      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:47 UTC 2020               |
+| KAC_JAV-2  | TCS-11-2      |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:50 UTC 2020               |
+| KAC_JAV-2  | TCS-8-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:48 UTC 2020               |
+| KAC_JAV-2  | TCS-8-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:46 UTC 2020               |
+| KAC_JAV-2  | TCS-9-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:54 UTC 2020               |
+| KAC_JAV-2  | TCS-9-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Thu May 28 17:00:53 UTC 2020               |
+| NMS        | BSC-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:02:35 UTC 2020               |
+| NMS        | BSC-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:07:30 UTC 2020               |
+| NMS        | CMS-1         |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:32 UTC 2020               |
+| NMS        | CMS-2         |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:30 UTC 2020               |
+| NMS        | LOG-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020               |
+| NMS        | LOG-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:22 UTC 2020               |
+| NMS        | MON-0-1       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020               |
+| NMS        | MON-0-2       |  Release: DIALOG CLOUD 2.2.1.4, Timestamp: 20200406141642, Install date: Mon May 25 15:11:21 UTC 2020               |
++------------+---------------+---------------------------------------------------------------------------------------------------------------------+

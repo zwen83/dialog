@@ -1,0 +1,81 @@
+
+
+TSDB cpu stats
+
+ResultSet({'('cpu', None)': [{'time': '2020-05-28T16:59:20Z', 'usage_iowait': 0.02503128911462147, 'usage_guest': 0, 'host': 'BSC-0-1', 'usage_idle': 94.0926157716448, 'usage_irq': 0, 'cpu': 'cpu-total', 'usage_steal': 0.02503128910551514, 'usage_user': 1.8773466832141446, 'usage_nice': 2.0525657065611784, 'usage_system': 1.8773466832141446, 'usage_guest_nice': 0, 'usage_softirq': 0.050062578220136614}, {'time': '2020-05-28T16:59:20Z', 'usage_iowait': 0.05005005005935459, 'usage_guest': 0, 'host': 'BSC-0-2', 'usage_idle': 92.54254254952279, 'usage_irq': 0, 'cpu': 'cpu-total', 'usage_steal': 0.02502502503422932, 'usage_user': 3.578578579585255, 'usage_nice': 1.6016016018993469, 'usage_system': 2.1771771775227484, 'usage_guest_nice': 0, 'usage_softirq': 0.025025025029677295}]})
+
+TSDB disk stats
+
+ResultSet({'('disk', None)': [{'time': '2020-05-28T16:59:30Z', 'inodes_free': 26162697, 'host': 'BSC-0-1', 'device': 'BSC-0-1:/sharedfs', 'inodes_used': 51703, 'inodes_total': 26214400, 'fstype': 'fuse.glusterfs', 'used': 19092996096, 'mode': 'rw', 'path': '/var/mnt/sharedfs', 'used_percent': 35.58085002442599, 'total': 53660876800, 'free': 34567880704}, {'time': '2020-05-28T16:59:30Z', 'inodes_free': 26162697, 'host': 'BSC-0-2', 'device': 'BSC-0-1:/sharedfs', 'inodes_used': 51703, 'inodes_total': 26214400, 'fstype': 'fuse.glusterfs', 'used': 19092996096, 'mode': 'rw', 'path': '/var/mnt/sharedfs', 'used_percent': 35.58085002442599, 'total': 53660876800, 'free': 34567880704}]})
+
+TSDB diskio stats
+
+ResultSet({'('diskio', None)': [{'read_time': 919409, 'reads': 182369, 'time': '2020-05-28T16:59:30Z', 'weighted_io_time': 195346787, 'host': 'BSC-0-1', 'read_bytes': 2664695808, 'iops_in_progress': 0, 'io_time': 35097228, 'write_bytes': 239319990272, 'name': 'dm-0', 'writes': 58436329, 'write_time': 194420904}, {'read_time': 260228, 'reads': 16507, 'time': '2020-05-28T16:59:30Z', 'weighted_io_time': 476776, 'host': 'BSC-0-1', 'read_bytes': 67612672, 'iops_in_progress': 0, 'io_time': 38336, 'write_bytes': 113668096, 'name': 'dm-1', 'writes': 27751, 'write_time': 216547}]})
+
+TSDB system stats
+
+ResultSet({'('system', None)': [{'time': '2020-05-28T16:59:30Z', 'load1': 0.04, 'load15': 0.08, 'host': 'BSC-0-1', 'uptime': 15035082, 'load5': 0.06, 'uptime_format': '174 days,  0:24', 'n_users': 0, 'n_cpus': 4}, {'time': '2020-05-28T16:59:30Z', 'load1': 0.04, 'load15': 0.02, 'host': 'BSC-0-2', 'uptime': 15035070, 'load5': 0.06, 'uptime_format': '174 days,  0:24', 'n_users': 0, 'n_cpus': 4}]})
+
+TSDB net stats
+
+ResultSet({'('netstat', None)': [{'tcp_closing': 0, 'time': '2020-05-28T16:59:30Z', 'tcp_syn_recv': 0, 'host': 'BSC-0-1', 'tcp_close': 0, 'tcp_listen': 39, 'tcp_syn_sent': 0, 'tcp_established': 176, 'tcp_fin_wait1': 0, 'tcp_last_ack': 0, 'tcp_none': 56, 'tcp_time_wait': 36, 'tcp_close_wait': 0, 'udp_socket': 27, 'tcp_fin_wait2': 0}, {'tcp_closing': 0, 'time': '2020-05-28T16:59:30Z', 'tcp_syn_recv': 0, 'host': 'BSC-0-2', 'tcp_close': 0, 'tcp_listen': 33, 'tcp_syn_sent': 0, 'tcp_established': 35, 'tcp_fin_wait1': 0, 'tcp_last_ack': 0, 'tcp_none': 56, 'tcp_time_wait': 36, 'tcp_close_wait': 0, 'udp_socket': 26, 'tcp_fin_wait2': 0}]})
+
+TSDB cpu stats
+
+ResultSet({'('cpu', None)': [{'usage_iowait': 0, 'usage_nice': 2.0786376150588515, 'usage_guest': 0, 'usage_user': 1.7530678689228032, 'usage_steal': 0.02504382667911354, 'usage_idle': 94.16478838518785, 'usage_irq': 0, 'time': '2020-07-10T00:51:40Z', 'host': 'BSC-0-1', 'usage_guest_nice': 0, 'usage_system': 1.9534184820641631, 'cpu': 'cpu-total', 'usage_softirq': 0.025043826697335323}, {'usage_iowait': 0.05005005005025054, 'usage_nice': 1.1761761762992404, 'usage_guest': 0, 'usage_user': 1.6016016021906765, 'usage_steal': 0.02502502502512527, 'usage_idle': 95.99599601025511, 'usage_irq': 0, 'time': '2020-07-10T00:51:40Z', 'host': 'BSC-0-2', 'usage_guest_nice': 0, 'usage_system': 1.1511511518294621, 'cpu': 'cpu-total', 'usage_softirq': 0}]})
+
+TSDB disk stats
+
+ResultSet({'('disk', None)': [{'free': 32496549888, 'path': '/var/mnt/sharedfs', 'used_percent': 39.44088910600879, 'fstype': 'fuse.glusterfs', 'inodes_free': 26154088, 'time': '2020-07-10T00:51:41Z', 'host': 'LOG-0-1', 'device': 'BSC-0-1:/sharedfs', 'mode': 'rw', 'inodes_total': 26214400, 'used': 21164326912, 'total': 53660876800, 'inodes_used': 60312}, {'free': 39729291264, 'path': '/var/es', 'used_percent': 27.82027366955769, 'fstype': 'ext4', 'inodes_free': 3599920, 'time': '2020-07-10T00:51:41Z', 'host': 'LOG-0-1', 'device': 'mapper/systemvg-es', 'mode': 'rw', 'inodes_total': 3604480, 'used': 15312883712, 'total': 57994964992, 'inodes_used': 4560}]})
+
+TSDB diskio stats
+
+ResultSet({'('diskio', None)': [{'read_time': 995247, 'read_bytes': 2914142208, 'iops_in_progress': 0, 'weighted_io_time': 245900384, 'writes': 72455969, 'host': 'BSC-0-1', 'time': '2020-07-10T00:51:50Z', 'write_bytes': 296744423424, 'name': 'dm-0', 'reads': 199283, 'write_time': 244897613, 'io_time': 44860898}, {'read_time': 260965, 'read_bytes': 69312512, 'iops_in_progress': 0, 'weighted_io_time': 477643, 'writes': 27766, 'host': 'BSC-0-1', 'time': '2020-07-10T00:51:50Z', 'write_bytes': 113729536, 'name': 'dm-1', 'reads': 16922, 'write_time': 216677, 'io_time': 38501}]})
+
+TSDB system stats
+
+ResultSet({'('system', None)': [{'n_users': 0, 'time': '2020-07-10T00:51:50Z', 'host': 'BSC-0-1', 'load1': 0.22, 'uptime': 18692222, 'n_cpus': 4, 'load15': 0.11, 'load5': 0.16, 'uptime_format': '216 days,  8:17'}, {'n_users': 0, 'time': '2020-07-10T00:51:50Z', 'host': 'BSC-0-2', 'load1': 0, 'uptime': 18692210, 'n_cpus': 4, 'load15': 0, 'load5': 0, 'uptime_format': '216 days,  8:16'}]})
+
+TSDB net stats
+
+ResultSet({'('netstat', None)': [{'tcp_none': 56, 'tcp_syn_recv': 0, 'tcp_closing': 0, 'tcp_listen': 39, 'tcp_close': 0, 'tcp_time_wait': 30, 'host': 'BSC-0-1', 'tcp_syn_sent': 0, 'tcp_close_wait': 0, 'time': '2020-07-10T00:51:50Z', 'tcp_fin_wait2': 0, 'tcp_last_ack': 0, 'tcp_established': 180, 'udp_socket': 27, 'tcp_fin_wait1': 0}, {'tcp_none': 56, 'tcp_syn_recv': 0, 'tcp_closing': 0, 'tcp_listen': 33, 'tcp_close': 0, 'tcp_time_wait': 35, 'host': 'BSC-0-2', 'tcp_syn_sent': 0, 'tcp_close_wait': 0, 'time': '2020-07-10T00:51:50Z', 'tcp_fin_wait2': 0, 'tcp_last_ack': 0, 'tcp_established': 35, 'udp_socket': 26, 'tcp_fin_wait1': 0}]})
+
+TSDB cpu stats
+
+ResultSet({'('cpu', None)': [{'usage_idle': 70.17017015327947, 'time': '2020-07-10T01:25:21Z', 'usage_softirq': 0, 'usage_system': 10.51051050878178, 'usage_steal': 1.5015015011296844, 'usage_iowait': 1.6016016015934362, 'usage_irq': 0, 'usage_guest': 0, 'usage_nice': 0.5005005004251164, 'cpu': 'cpu-total', 'usage_user': 15.715715710755822, 'usage_guest_nice': 0, 'host': 'LOG-0-1'}, {'usage_idle': 70.17017015327947, 'time': '2020-07-10T01:25:21Z', 'usage_softirq': 0, 'usage_system': 10.51051050878178, 'usage_steal': 1.5015015011296844, 'usage_iowait': 1.6016016015934362, 'usage_irq': 0, 'usage_guest': 0, 'usage_nice': 0.5005005004251164, 'cpu': 'cpu0', 'usage_user': 15.715715710755822, 'usage_guest_nice': 0, 'host': 'LOG-0-1'}]})
+
+TSDB disk stats
+
+ResultSet({'('disk', None)': [{'time': '2020-07-10T01:25:21Z', 'free': 32496418816, 'path': '/var/mnt/sharedfs', 'inodes_free': 26154087, 'inodes_used': 60313, 'fstype': 'fuse.glusterfs', 'mode': 'rw', 'inodes_total': 26214400, 'used': 21164457984, 'used_percent': 39.44113336590132, 'host': 'LOG-0-1', 'device': 'BSC-0-1:/sharedfs', 'total': 53660876800}, {'time': '2020-07-10T01:25:21Z', 'free': 39635574784, 'path': '/var/es', 'inodes_free': 3599877, 'inodes_used': 4603, 'fstype': 'ext4', 'mode': 'rw', 'inodes_total': 3604480, 'used': 15406600192, 'used_percent': 27.990536708837777, 'host': 'LOG-0-1', 'device': 'mapper/systemvg-es', 'total': 57994964992}]})
+
+TSDB diskio stats
+
+ResultSet({'('diskio', None)': [{'weighted_io_time': 245928285, 'time': '2020-07-10T01:25:30Z', 'reads': 199296, 'iops_in_progress': 0, 'io_time': 44865239, 'writes': 72464478, 'read_time': 995260, 'write_bytes': 296779276288, 'read_bytes': 2914224128, 'write_time': 244925501, 'name': 'dm-0', 'host': 'BSC-0-1'}, {'weighted_io_time': 477643, 'time': '2020-07-10T01:25:30Z', 'reads': 16922, 'iops_in_progress': 0, 'io_time': 38501, 'writes': 27766, 'read_time': 260965, 'write_bytes': 113729536, 'read_bytes': 69312512, 'write_time': 216677, 'name': 'dm-1', 'host': 'BSC-0-1'}]})
+
+TSDB system stats
+
+ResultSet({'('system', None)': [{'uptime_format': '216 days,  8:50', 'time': '2020-07-10T01:25:30Z', 'n_cpus': 4, 'n_users': 0, 'host': 'BSC-0-1', 'load1': 0.37, 'load5': 0.3, 'load15': 0.2, 'uptime': 18694242}, {'uptime_format': '216 days,  8:50', 'time': '2020-07-10T01:25:30Z', 'n_cpus': 4, 'n_users': 0, 'host': 'BSC-0-2', 'load1': 0.05, 'load5': 0.04, 'load15': 0, 'uptime': 18694230}]})
+
+TSDB net stats
+
+ResultSet({'('netstat', None)': [{'time': '2020-07-10T01:25:30Z', 'tcp_close': 0, 'tcp_syn_recv': 0, 'tcp_close_wait': 0, 'tcp_fin_wait2': 0, 'tcp_syn_sent': 0, 'tcp_closing': 0, 'udp_socket': 27, 'host': 'BSC-0-1', 'tcp_listen': 39, 'tcp_none': 56, 'tcp_established': 180, 'tcp_time_wait': 30, 'tcp_fin_wait1': 0, 'tcp_last_ack': 0}, {'time': '2020-07-10T01:25:30Z', 'tcp_close': 0, 'tcp_syn_recv': 0, 'tcp_close_wait': 0, 'tcp_fin_wait2': 0, 'tcp_syn_sent': 0, 'tcp_closing': 0, 'udp_socket': 26, 'host': 'BSC-0-2', 'tcp_listen': 33, 'tcp_none': 56, 'tcp_established': 35, 'tcp_time_wait': 28, 'tcp_fin_wait1': 0, 'tcp_last_ack': 0}]})
+
+TSDB cpu stats
+
+ResultSet({'('cpu', None)': [{'usage_user': 5.107661492636527, 'host': 'BSC-0-1', 'time': '2020-07-10T01:36:30Z', 'usage_system': 3.27991988015543, 'usage_nice': 3.079619429280915, 'usage_irq': 0, 'usage_steal': 0.05007511266397712, 'cpu': 'cpu-total', 'usage_guest_nice': 0, 'usage_guest': 0, 'usage_idle': 88.40761142837253, 'usage_softirq': 0.05007511268219434, 'usage_iowait': 0.02503755634109717}, {'usage_user': 2.70812437304616, 'host': 'BSC-0-2', 'time': '2020-07-10T01:36:30Z', 'usage_system': 2.1313941824521927, 'usage_nice': 1.5546639924420533, 'usage_irq': 0, 'usage_steal': 0.05015045136115325, 'cpu': 'cpu-total', 'usage_guest_nice': 0, 'usage_guest': 0, 'usage_idle': 93.55566701816767, 'usage_softirq': 0, 'usage_iowait': 0}]})
+
+TSDB disk stats
+
+ResultSet({'('disk', None)': [{'host': 'BSC-0-1', 'time': '2020-07-10T01:36:30Z', 'inodes_used': 60316, 'free': 32496418816, 'total': 53660876800, 'used': 21164457984, 'mode': 'rw', 'device': 'BSC-0-1:/sharedfs', 'inodes_free': 26154084, 'path': '/var/mnt/sharedfs', 'used_percent': 39.44113336590132, 'inodes_total': 26214400, 'fstype': 'fuse.glusterfs'}, {'host': 'BSC-0-2', 'time': '2020-07-10T01:36:30Z', 'inodes_used': 60316, 'free': 32496418816, 'total': 53660876800, 'used': 21164457984, 'mode': 'rw', 'device': 'BSC-0-1:/sharedfs', 'inodes_free': 26154084, 'path': '/var/mnt/sharedfs', 'used_percent': 39.44113336590132, 'inodes_total': 26214400, 'fstype': 'fuse.glusterfs'}]})
+
+TSDB diskio stats
+
+ResultSet({'('diskio', None)': [{'name': 'dm-0', 'time': '2020-07-10T01:36:30Z', 'io_time': 44866871, 'write_time': 244933249, 'writes': 72467074, 'reads': 199296, 'iops_in_progress': 0, 'host': 'BSC-0-1', 'read_bytes': 2914224128, 'write_bytes': 296789909504, 'weighted_io_time': 245936033, 'read_time': 995260}, {'name': 'dm-1', 'time': '2020-07-10T01:36:30Z', 'io_time': 38501, 'write_time': 216677, 'writes': 27766, 'reads': 16922, 'iops_in_progress': 0, 'host': 'BSC-0-1', 'read_bytes': 69312512, 'write_bytes': 113729536, 'weighted_io_time': 477643, 'read_time': 260965}]})
+
+TSDB system stats
+
+ResultSet({'('system', None)': [{'uptime_format': '216 days,  9:01', 'n_users': 0, 'host': 'LOG-0-1', 'time': '2020-07-10T01:36:31Z', 'load1': 0.61, 'load5': 0.79, 'n_cpus': 1, 'load15': 0.91, 'uptime': 18694860}, {'uptime_format': '216 days,  9:01', 'n_users': 0, 'host': 'BSC-0-1', 'time': '2020-07-10T01:36:40Z', 'load1': 0.25, 'load5': 0.23, 'n_cpus': 4, 'load15': 0.18, 'uptime': 18694912}]})
+
+TSDB net stats
+
+ResultSet({'('netstat', None)': [{'tcp_close': 0, 'tcp_listen': 29, 'host': 'LOG-0-1', 'time': '2020-07-10T01:36:31Z', 'tcp_fin_wait2': 0, 'tcp_none': 46, 'udp_socket': 22, 'tcp_close_wait': 0, 'tcp_syn_recv': 0, 'tcp_established': 74, 'tcp_syn_sent': 0, 'tcp_fin_wait1': 0, 'tcp_closing': 0, 'tcp_time_wait': 185, 'tcp_last_ack': 0}, {'tcp_close': 0, 'tcp_listen': 39, 'host': 'BSC-0-1', 'time': '2020-07-10T01:36:40Z', 'tcp_fin_wait2': 0, 'tcp_none': 56, 'udp_socket': 27, 'tcp_close_wait': 0, 'tcp_syn_recv': 0, 'tcp_established': 180, 'tcp_syn_sent': 0, 'tcp_fin_wait1': 0, 'tcp_closing': 0, 'tcp_time_wait': 37, 'tcp_last_ack': 0}]})

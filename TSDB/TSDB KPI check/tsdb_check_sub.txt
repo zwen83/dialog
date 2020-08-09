@@ -1,0 +1,353 @@
+
+
+Checking the tsdb for HMGW IP:10.75.10.180
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-05-28T16:59:30Z', 'signalled_cni': 11.4, 'hps': '4', 'modem_id': '11183', 'host': 'PGICSE-3', 'modcod': '16APSK 2/3-L normal'}, {'time': '2020-05-28T16:59:30Z', 'signalled_cni': 12.5, 'hps': '4', 'modem_id': '29167', 'host': 'PGICSE-3', 'modcod': '16APSK 4/5 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-05-28T17:00:30Z', 'cpm_controller_id': '1', 'burst_packet_occupation': 0.156154355457, 'carrier_pool_low': 15749, 'frequency_offset_average': -12, 'CN0_minimum': 82.9069519043, 'tx_psd_average': -75.1235961914, 'link_margin_minimum': 7.126953125, 'link_margin_maximum': 7.95427703857, 'CN0_maximum': 83.7342758179, 'tx_power_average': -9, 'tx_power_maximum': -9, 'carrier_pool_high': 15749, 'burst_time_offset_average': -766, 'modem_id': '11688', 'burst_error_ratio': 0, 'logged_on_time': 0, 'hps': '5', 'assigned_slots': 5175.41935484, 'state': 2, 'burst_time_offset_minimum': -937, 'CN0_average': 83.4006900782, 'host': 'PGICPMCTL-1', 'link_margin_average': 7.62069129889, 'burst_time_offset_maximum': -601, 'C0_average': -116.57683293, 'tx_psd_maximum': -75.1235961914, 'frequency_offset_minimum': -231, 'log_on_count': 0, 'assigned_bitrate': 5009805.93548, 'tx_power_minimum': -9, 'frequency_offset_maximum': 168, 'tx_psd_minimum': -84.1235961914}, {'time': '2020-05-28T17:00:30Z', 'cpm_controller_id': '1', 'burst_packet_occupation': 0.297233666863, 'carrier_pool_low': 23929, 'frequency_offset_average': 87, 'CN0_minimum': 80.2992095947, 'tx_psd_average': -82.1235961914, 'link_margin_minimum': 4.51921081543, 'link_margin_maximum': 9.60838317871, 'CN0_maximum': 85.388381958, 'tx_power_average': -16, 'tx_power_maximum': -16, 'carrier_pool_high': 23929, 'burst_time_offset_average': -1387, 'modem_id': '29179', 'burst_error_ratio': 0, 'logged_on_time': 0, 'hps': '3', 'assigned_slots': 1134.36666667, 'state': 2, 'burst_time_offset_minimum': -1542, 'CN0_average': 82.0872899301, 'host': 'PGICPMCTL-7', 'link_margin_average': 6.30729115078, 'burst_time_offset_maximum': -1210, 'C0_average': -118.569929368, 'tx_psd_maximum': -82.1235961914, 'frequency_offset_minimum': -146, 'log_on_count': 0, 'assigned_bitrate': 1098066.93333, 'tx_power_minimum': -16, 'frequency_offset_maximum': 330, 'tx_psd_minimum': -98.1235961914}]})
+
+TSDB modem hrc stats
+
+ResultSet({'('modem.return.hrc_generic', None)': [{'rx_power': -56.2925232316, 'out_of_lock_count': 997, 'time': '2020-05-28T17:01:30Z', 'tx_power_density': -90.5769178501, 'rx_power_density': -128.269441082, 'bbp_error_count': 132929318, 'hps': '3', 'ACM_margin': 2.02031800661, 'regrowth_limited_power': 0, 'modem_id': '18189', 'modcod': 27, 'C0D': 25.9748891356, 'insufficient_carrier_guard_band': False, 'bbp_count': 2174237053, 'BUC_frequency_offset': -1367, 'errored_seconds_count': 62391, 'logon_search_range': 12000, 'actual_BEPD': -127.420675236, 'uplink_fade': 0, 'tx_power': -18.6, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-1', 'state': 6, 'spread_factor': 1, 'logon_time': 14, 'host': 'PGIHRCCTL-2', 'return_capacity_group_id': '20076', 'chip_rate': 15014210, 'frequency_offset': -1367, 'link_margin': 2.1816704296, 'ESN0': 12.6909150411, 'bbp_occupation': 3.46994492088, 'C0ND': 12.4916704296, 'allocated_bit_rate': 40262080, 'frequency': 29906250000, 'logging_on_carrier_guard_band_too_high_count': 546342}, {'rx_power': -62.0869243515, 'out_of_lock_count': 145, 'time': '2020-05-28T17:01:30Z', 'tx_power_density': -89.4970675934, 'rx_power_density': -125.383991945, 'bbp_error_count': 258667, 'hps': '2', 'ACM_margin': 2.25782626994, 'regrowth_limited_power': 0, 'modem_id': '22544', 'modcod': 25, 'C0D': 31.7523291777, 'insufficient_carrier_guard_band': False, 'bbp_count': 2785059844, 'BUC_frequency_offset': -3092, 'errored_seconds_count': 65085, 'logon_search_range': 3000, 'actual_BEPD': -125.326535082, 'uplink_fade': 0, 'tx_power': -26.2, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-2', 'state': 6, 'spread_factor': 1, 'logon_time': 14, 'host': 'PGIHRCCTL-6', 'return_capacity_group_id': '9593', 'chip_rate': 2034780, 'frequency_offset': -3092, 'link_margin': 2.64538720988, 'ESN0': 12.5573491817, 'bbp_occupation': 0.945327629197, 'C0ND': 12.5053872099, 'allocated_bit_rate': 5053440, 'frequency': 29627069300, 'logging_on_carrier_guard_band_too_high_count': 326326}]})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_bytes': 5814766591, 'time': '2020-05-28T17:01:30Z', 'return_link_id': '4050', 'hps': '3', 'host': 'PGIDCP-1', 'received_packets': 28727194, 'type': 'control'}, {'received_bytes': 22881376532301, 'time': '2020-05-28T17:01:30Z', 'return_link_id': '4050', 'hps': '3', 'host': 'PGIDCP-1', 'received_packets': 24733993263, 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_bytes': 729213611522, 'time': '2020-05-28T17:02:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-2', 'received_packets': 1419001287, 'type': 'control', 'send_rate': None, 'hps': '1', 'dropped_bytes': 3623790, 'dropped_packets': 19280, 'forward_link_id': '3525', 'sent_packets': 1418982007, 'sent_bytes': 729209987732, 'delay': -1, 'symbol_rate': 238240, 'link_occupation': 0.111524367}, {'received_bytes': 5685404593, 'time': '2020-05-28T17:02:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-5', 'received_packets': 10888909, 'type': 'unicast', 'send_rate': 114289, 'hps': '6', 'dropped_bytes': 0, 'dropped_packets': 0, 'forward_link_id': '4389', 'sent_packets': 10888909, 'sent_bytes': 5685403247, 'delay': None, 'symbol_rate': None, 'link_occupation': None}]})
+
+Checking the tsdb for HMGW IP:10.75.10.183
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-05-28T17:02:00Z', 'signalled_cni': 17.3, 'hps': '9', 'modem_id': '19738', 'host': 'PGICSE-9', 'modcod': '32APSK 5/6 normal'}, {'time': '2020-05-28T17:02:30Z', 'signalled_cni': 17.3, 'hps': '9', 'modem_id': '19738', 'host': 'PGICSE-9', 'modcod': '32APSK 5/6 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_bytes': 2321024668, 'time': '2020-05-28T17:02:00Z', 'return_link_id': '4919', 'hps': '9', 'host': 'PGIDCP-8', 'received_packets': 5643531, 'type': 'control'}, {'received_bytes': 10889360045332, 'time': '2020-05-28T17:02:00Z', 'return_link_id': '4919', 'hps': '9', 'host': 'PGIDCP-8', 'received_packets': 11467009028, 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_bytes': 668334351431, 'time': '2020-05-28T17:02:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-8', 'received_packets': 938808310, 'type': 'control', 'send_rate': None, 'hps': '8', 'dropped_bytes': 914965, 'dropped_packets': 4867, 'forward_link_id': '4678', 'sent_packets': 938803443, 'sent_bytes': 668333436466, 'delay': -1, 'symbol_rate': 94613, 'link_occupation': 0.10752552528}, {'received_bytes': 75500403594847, 'time': '2020-05-28T17:02:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-9', 'received_packets': 60117210240, 'type': 'unicast', 'send_rate': 20940425, 'hps': '9', 'dropped_bytes': 33607549369, 'dropped_packets': 27587451, 'forward_link_id': '4736', 'sent_packets': 60089622788, 'sent_bytes': 75466796044148, 'delay': None, 'symbol_rate': None, 'link_occupation': None}]})
+
+Checking the tsdb for HMGW IP:10.75.11.60
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-05-28T17:02:00Z', 'signalled_cni': 12.3, 'hps': '4', 'modem_id': '18234', 'host': 'PGICSE-5', 'modcod': '16APSK 3/4 normal'}, {'time': '2020-05-28T17:02:00Z', 'signalled_cni': 10.2, 'hps': '3', 'modem_id': '24269', 'host': 'PGICSE-7', 'modcod': '16APSK 23/36 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-05-28T17:02:00Z', 'cpm_controller_id': '1', 'burst_packet_occupation': 1.07154647927, 'carrier_pool_low': 24461, 'frequency_offset_average': -65, 'CN0_minimum': 82.4823455811, 'tx_psd_average': -82.1235961914, 'link_margin_minimum': 6.70234680176, 'link_margin_maximum': 10.6154403687, 'CN0_maximum': 86.3954391479, 'tx_power_average': -16, 'tx_power_maximum': -16, 'carrier_pool_high': 24461, 'burst_time_offset_average': -1527, 'modem_id': '24269', 'burst_error_ratio': 0, 'logged_on_time': 0, 'hps': '3', 'assigned_slots': 3533.93333333, 'state': 2, 'burst_time_offset_minimum': -1699, 'CN0_average': 83.6253255666, 'host': 'PGICPMCTL-5', 'link_margin_average': 7.84532678733, 'burst_time_offset_maximum': -1359, 'C0_average': -122.358496435, 'tx_psd_maximum': -82.1235961914, 'frequency_offset_minimum': -328, 'log_on_count': 0, 'assigned_bitrate': 3420847.46667, 'tx_power_minimum': -16, 'frequency_offset_maximum': 179, 'tx_psd_minimum': -98.1235961914}, {'time': '2020-05-28T17:02:00Z', 'cpm_controller_id': '1', 'burst_packet_occupation': 0.0797858310914, 'carrier_pool_low': 15615, 'frequency_offset_average': 13, 'CN0_minimum': 85.2418441772, 'tx_psd_average': -75.1235961914, 'link_margin_minimum': 9.46184539795, 'link_margin_maximum': 10.1973724365, 'CN0_maximum': 85.9773712158, 'tx_power_average': -9, 'tx_power_maximum': -9, 'carrier_pool_high': 15615, 'burst_time_offset_average': -244, 'modem_id': '18234', 'burst_error_ratio': 0, 'logged_on_time': 0, 'hps': '4', 'assigned_slots': 5222.5862069, 'state': 2, 'burst_time_offset_minimum': -375, 'CN0_average': 85.6072315019, 'host': 'PGICPMCTL-6', 'link_margin_average': 9.82723272265, 'burst_time_offset_maximum': -101, 'C0_average': -123.353196688, 'tx_psd_maximum': -75.1235961914, 'frequency_offset_minimum': -366, 'log_on_count': 0, 'assigned_bitrate': 5055463.44828, 'tx_power_minimum': -9, 'frequency_offset_maximum': 407, 'tx_psd_minimum': -84.1235961914}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_bytes': 3218, 'time': '2020-05-28T17:02:30Z', 'return_link_id': '3834', 'hps': '5', 'host': 'PGIDCP-1', 'received_packets': 30, 'type': 'control'}, {'received_bytes': 350354, 'time': '2020-05-28T17:02:30Z', 'return_link_id': '3834', 'hps': '5', 'host': 'PGIDCP-1', 'received_packets': 3160, 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_bytes': 632957369855, 'time': '2020-05-28T17:02:30Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-6', 'received_packets': 1196580236, 'type': 'control', 'send_rate': None, 'hps': '2', 'dropped_bytes': 3623580, 'dropped_packets': 19272, 'forward_link_id': '3453', 'sent_packets': 1196560964, 'sent_bytes': 632953746275, 'delay': -1, 'symbol_rate': 241036, 'link_occupation': 0.14348815834}, {'received_bytes': 693445192774, 'time': '2020-05-28T17:02:30Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-7', 'received_packets': 477339657, 'type': 'unicast', 'send_rate': 557867, 'hps': '3', 'dropped_bytes': 0, 'dropped_packets': 0, 'forward_link_id': '3957', 'sent_packets': 477339657, 'sent_bytes': 693445192166, 'delay': None, 'symbol_rate': None, 'link_occupation': None}]})
+
+Checking the tsdb for HMGW IP:10.75.11.63
+
+TSDB modem fwd stats
+
+ResultSet({})
+
+TSDB modem return cpm stats
+
+ResultSet({})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_bytes': 268367, 'time': '2020-05-28T17:03:00Z', 'return_link_id': '4266', 'hps': '9', 'host': 'PGIDCP-10', 'received_packets': 366, 'type': 'control'}, {'received_bytes': 304479, 'time': '2020-05-28T17:03:00Z', 'return_link_id': '4266', 'hps': '9', 'host': 'PGIDCP-10', 'received_packets': 622, 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_bytes': 458970924300, 'time': '2020-05-28T17:03:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-8', 'received_packets': 963290201, 'type': 'control', 'send_rate': None, 'hps': '9', 'dropped_bytes': 3606642, 'dropped_packets': 19181, 'forward_link_id': '4245', 'sent_packets': 963271020, 'sent_bytes': 458967317658, 'delay': -1, 'symbol_rate': 94023, 'link_occupation': 0.146712801861}, {'received_bytes': 0, 'time': '2020-05-28T17:03:00Z', 'link_efficiency': None, 'sent_symbols': None, 'host': 'PGICSE-9', 'received_packets': 0, 'type': 'unicast', 'send_rate': 45121, 'hps': '8', 'dropped_bytes': 0, 'dropped_packets': 0, 'forward_link_id': '4317', 'sent_packets': 0, 'sent_bytes': 0, 'delay': None, 'symbol_rate': None, 'link_occupation': None}]})
+
+Checking the tsdb for HMGW IP:10.75.10.180
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'hps': '4', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-3', 'modcod': '16APSK 3/4 normal', 'modem_id': '11183', 'signalled_cni': 11.5}, {'hps': '4', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-3', 'modcod': '16APSK 3/4 normal', 'modem_id': '29167', 'signalled_cni': 11.7}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'CN0_average': 86.0983920239, 'tx_power_minimum': -9, 'burst_packet_occupation': 1.40817201464, 'burst_time_offset_minimum': -921, 'frequency_offset_average': 44, 'modem_id': '11688', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 10.3183932446, 'burst_error_ratio': 0, 'C0_average': -108.74875201, 'link_margin_minimum': 9.95432281494, 'carrier_pool_high': 15749, 'frequency_offset_minimum': -139, 'logged_on_time': 0, 'link_margin_maximum': 10.6924667358, 'CN0_maximum': 86.4724655151, 'carrier_pool_low': 15749, 'assigned_bitrate': 2022152, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 237, 'log_on_count': 0, 'burst_time_offset_average': -715, 'state': 2, 'hps': '5', 'assigned_slots': 2089, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 85.7343215942, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -476, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-1'}, {'CN0_average': 84.0654134085, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.0921613481889, 'burst_time_offset_minimum': -183, 'frequency_offset_average': -189, 'modem_id': '33689', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 8.28541462924, 'burst_error_ratio': 0, 'C0_average': -115.938893734, 'link_margin_minimum': 3.18095397949, 'carrier_pool_high': 14947, 'frequency_offset_minimum': -445, 'logged_on_time': 0, 'link_margin_maximum': 10.3016052246, 'CN0_maximum': 86.0816040039, 'carrier_pool_low': 14947, 'assigned_bitrate': 1965233.6, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 127, 'log_on_count': 0, 'burst_time_offset_average': -13, 'state': 2, 'hps': '2', 'assigned_slots': 2030.2, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 78.9609527588, 'cpm_controller_id': '1', 'burst_time_offset_maximum': 175, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-5'}]})
+
+TSDB modem hrc stats
+
+ResultSet({'('modem.return.hrc_generic', None)': [{'state': 6, 'link_margin': 3.4893901879, 'logon_search_range': 58000, 'logon_time': 14, 'C0D': 28.0874095338, 'return_capacity_group_id': '20076', 'bbp_count': 619994673, 'tx_power': -17.8, 'C0ND': 13.7993901879, 'rx_power_density': -126.729750096, 'spread_factor': 1, 'modcod': 27, 'uplink_fade': 0, 'rx_power': -54.7528322457, 'ACM_margin': 0.874223464787, 'frequency': 29906250000, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-1', 'logging_on_carrier_guard_band_too_high_count': 2, 'frequency_offset': -647, 'chip_rate': 15014210, 'regrowth_limited_power': 0, 'bbp_occupation': 67.1667236268, 'errored_seconds_count': 7483, 'out_of_lock_count': 59, 'tx_power_density': -89.7769178501, 'bbp_error_count': 9046493, 'ESN0': 13.9642826931, 'insufficient_carrier_guard_band': False, 'hps': '3', 'time': '2020-07-10T00:52:00Z', 'host': 'PGIHRCCTL-2', 'modem_id': '18189', 'BUC_frequency_offset': -647, 'actual_BEPD': -126.620399469, 'allocated_bit_rate': 40262080}, {'state': 4, 'link_margin': 0, 'logon_search_range': 100000, 'logon_time': 234, 'C0D': None, 'return_capacity_group_id': '9593', 'bbp_count': 2510762250, 'tx_power': -36.3, 'C0ND': 0, 'rx_power_density': None, 'spread_factor': 1, 'modcod': None, 'uplink_fade': 0, 'rx_power': None, 'ACM_margin': 2.5, 'frequency': 29629869000, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-2', 'logging_on_carrier_guard_band_too_high_count': 925548, 'frequency_offset': 0, 'chip_rate': 154150, 'regrowth_limited_power': 0, 'bbp_occupation': 0, 'errored_seconds_count': 1349677, 'out_of_lock_count': 455, 'tx_power_density': -88.3913282813, 'bbp_error_count': 22944909, 'ESN0': 0, 'insufficient_carrier_guard_band': False, 'hps': '2', 'time': '2020-07-10T00:52:00Z', 'host': 'PGIHRCCTL-6', 'modem_id': '22544', 'BUC_frequency_offset': 0, 'actual_BEPD': 0, 'allocated_bit_rate': 0}]})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'hps': '3', 'return_link_id': '4050', 'received_packets': 48503845, 'host': 'PGIDCP-1', 'received_bytes': 9717369600, 'time': '2020-07-10T00:52:00Z', 'type': 'control'}, {'hps': '3', 'return_link_id': '4050', 'received_packets': 42544211942, 'host': 'PGIDCP-1', 'received_bytes': 38985748019550, 'time': '2020-07-10T00:52:00Z', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'dropped_bytes': 3623790, 'received_packets': 1925507630, 'sent_bytes': 1019722018094, 'symbol_rate': 1378445, 'link_efficiency': None, 'dropped_packets': 19280, 'hps': '1', 'sent_symbols': None, 'delay': 1, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-2', 'link_occupation': 0.645274538571, 'received_bytes': 1019725641884, 'type': 'control', 'sent_packets': 1925488350, 'forward_link_id': '3525', 'send_rate': None}, {'dropped_bytes': 3819050, 'received_packets': 92082971, 'sent_bytes': 128560536021, 'symbol_rate': None, 'link_efficiency': None, 'dropped_packets': 2748, 'hps': '6', 'sent_symbols': None, 'delay': None, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-5', 'link_occupation': None, 'received_bytes': 128564356649, 'type': 'unicast', 'sent_packets': 92080223, 'forward_link_id': '4389', 'send_rate': 1160060}]})
+
+Checking the tsdb for HMGW IP:10.75.10.183
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'hps': '8', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'modcod': '16APSK 2/3 normal', 'modem_id': '19201', 'signalled_cni': 10.5}, {'hps': '8', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'modcod': '16APSK 5/6 normal', 'modem_id': '19171', 'signalled_cni': 14.5}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'CN0_average': 84.3544747474, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.947571661963, 'burst_time_offset_minimum': -1039, 'frequency_offset_average': 28, 'modem_id': '19171', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 8.57447596813, 'burst_error_ratio': 0, 'C0_average': -117.043012031, 'link_margin_minimum': 7.06275939941, 'carrier_pool_high': 31142, 'frequency_offset_minimum': -290, 'logged_on_time': 0, 'link_margin_maximum': 10.846572876, 'CN0_maximum': 86.6265716553, 'carrier_pool_low': 31142, 'assigned_bitrate': 1087064, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 248, 'log_on_count': 0, 'burst_time_offset_average': -793, 'state': 2, 'hps': '8', 'assigned_slots': 1123, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 82.8427581787, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -542, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-9'}, {'CN0_average': 79.5796003695, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.331308669244, 'burst_time_offset_minimum': -812, 'frequency_offset_average': 218, 'modem_id': '34059', 'tx_psd_maximum': -72.1132965088, 'tx_power_maximum': -9, 'link_margin_average': 7.45079154241, 'burst_error_ratio': 0, 'C0_average': -120.867920263, 'link_margin_minimum': 1.5085144043, 'carrier_pool_high': 31142, 'frequency_offset_minimum': -176, 'logged_on_time': 19, 'link_margin_maximum': 14.6374015808, 'CN0_maximum': 81.069190979, 'carrier_pool_low': 31137, 'assigned_bitrate': 1004041.86667, 'tx_power_average': -9, 'tx_psd_average': -73.8191329956, 'frequency_offset_maximum': 444, 'log_on_count': 11, 'burst_time_offset_average': 319, 'state': 2, 'hps': '8', 'assigned_slots': 1037.23333333, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 72.9064865112, 'cpm_controller_id': '1', 'burst_time_offset_maximum': 718, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-9'}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'hps': '9', 'return_link_id': '4919', 'received_packets': 8546122, 'host': 'PGIDCP-8', 'received_bytes': 3342237174, 'time': '2020-07-10T00:52:00Z', 'type': 'control'}, {'hps': '9', 'return_link_id': '4919', 'received_packets': 19803887119, 'host': 'PGIDCP-8', 'received_bytes': 18531682120990, 'time': '2020-07-10T00:52:00Z', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'dropped_bytes': 914965, 'received_packets': 2896915156, 'sent_bytes': 1231740564128, 'symbol_rate': 2806465, 'link_efficiency': None, 'dropped_packets': 4867, 'hps': '8', 'sent_symbols': None, 'delay': 1, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'link_occupation': 3.1894837211, 'received_bytes': 1231741479093, 'type': 'control', 'sent_packets': 2896910289, 'forward_link_id': '4678', 'send_rate': None}, {'dropped_bytes': 65194792231, 'received_packets': 103790388662, 'sent_bytes': 129516754671032, 'symbol_rate': None, 'link_efficiency': None, 'dropped_packets': 54077384, 'hps': '9', 'sent_symbols': None, 'delay': None, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-9', 'link_occupation': None, 'received_bytes': 129581949493040, 'type': 'unicast', 'sent_packets': 103736311256, 'forward_link_id': '4736', 'send_rate': 190829162}]})
+
+Checking the tsdb for HMGW IP:10.75.11.60
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'hps': '4', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-5', 'modcod': '16APSK 3/4 normal', 'modem_id': '18234', 'signalled_cni': 11.8}, {'hps': '3', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-7', 'modcod': '16APSK 23/36 normal', 'modem_id': '24299', 'signalled_cni': 10}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'CN0_average': 83.4860291091, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.534895800111, 'burst_time_offset_minimum': -1726, 'frequency_offset_average': -58, 'modem_id': '24269', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 7.70603032983, 'burst_error_ratio': 0, 'C0_average': -122.87237588, 'link_margin_minimum': 6.41737365723, 'carrier_pool_high': 24461, 'frequency_offset_minimum': -338, 'logged_on_time': 0, 'link_margin_maximum': 11.3123931885, 'CN0_maximum': 87.0923919678, 'carrier_pool_low': 24461, 'assigned_bitrate': 3548913.86667, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 172, 'log_on_count': 0, 'burst_time_offset_average': -1508, 'state': 2, 'hps': '3', 'assigned_slots': 3666.23333333, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 82.1973724365, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -1308, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-5'}, {'CN0_average': 85.0917845031, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.732412209509, 'burst_time_offset_minimum': -679, 'frequency_offset_average': 14, 'modem_id': '18234', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 9.31178572377, 'burst_error_ratio': 0, 'C0_average': -124.783710105, 'link_margin_minimum': 8.62683868408, 'carrier_pool_high': 15615, 'frequency_offset_minimum': -1101, 'logged_on_time': 0, 'link_margin_maximum': 9.92486572266, 'CN0_maximum': 85.704864502, 'carrier_pool_low': 15615, 'assigned_bitrate': 5055463.44828, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 2789, 'log_on_count': 0, 'burst_time_offset_average': -515, 'state': 2, 'hps': '4', 'assigned_slots': 5222.5862069, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 84.4068374634, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -335, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-7'}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'hps': '5', 'return_link_id': '3834', 'received_packets': 30, 'host': 'PGIDCP-1', 'received_bytes': 3218, 'time': '2020-07-10T00:52:00Z', 'type': 'control'}, {'hps': '5', 'return_link_id': '3834', 'received_packets': 3160, 'host': 'PGIDCP-1', 'received_bytes': 350354, 'time': '2020-07-10T00:52:00Z', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'dropped_bytes': 3623580, 'received_packets': 1619791221, 'sent_bytes': 835976984688, 'symbol_rate': 239203, 'link_efficiency': None, 'dropped_packets': 19272, 'hps': '2', 'sent_symbols': None, 'delay': -1, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-6', 'link_occupation': 0.142396977793, 'received_bytes': 835980608268, 'type': 'control', 'sent_packets': 1619771949, 'forward_link_id': '3453', 'send_rate': None}, {'dropped_bytes': 692439, 'received_packets': 1050981163, 'sent_bytes': 1494192612477, 'symbol_rate': None, 'link_efficiency': None, 'dropped_packets': 494, 'hps': '3', 'sent_symbols': None, 'delay': None, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-7', 'link_occupation': None, 'received_bytes': 1494193305598, 'type': 'unicast', 'sent_packets': 1050980669, 'forward_link_id': '3957', 'send_rate': 2533508}]})
+
+Checking the tsdb for HMGW IP:10.75.11.63
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'hps': '9', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'modcod': '32APSK 2/3-L normal', 'modem_id': '33352', 'signalled_cni': 12.9}, {'hps': '9', 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'modcod': '8PSK 5/6 normal', 'modem_id': '31710', 'signalled_cni': 10.6}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'CN0_average': 84.6453508184, 'tx_power_minimum': -9, 'burst_packet_occupation': 0.282999024801, 'burst_time_offset_minimum': -1031, 'frequency_offset_average': 15, 'modem_id': '31710', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 8.86535203907, 'burst_error_ratio': 0, 'C0_average': -114.695030248, 'link_margin_minimum': 8.35611724854, 'carrier_pool_high': 31547, 'frequency_offset_minimum': -394, 'logged_on_time': 0, 'link_margin_maximum': 9.37860107422, 'CN0_maximum': 85.1585998535, 'carrier_pool_low': 31547, 'assigned_bitrate': 4906323.6129, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 313, 'log_on_count': 0, 'burst_time_offset_average': -847, 'state': 2, 'hps': '9', 'assigned_slots': 5068.51612903, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 84.1361160278, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -648, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-8'}, {'CN0_average': 87.2575693155, 'tx_power_minimum': -9, 'burst_packet_occupation': 55.2368751474, 'burst_time_offset_minimum': -800, 'frequency_offset_average': -4, 'modem_id': '33352', 'tx_psd_maximum': -75.1235961914, 'tx_power_maximum': -9, 'link_margin_average': 11.4775705362, 'burst_error_ratio': 0, 'C0_average': -112.110134602, 'link_margin_minimum': 10.9499511719, 'carrier_pool_high': 31547, 'frequency_offset_minimum': -331, 'logged_on_time': 0, 'link_margin_maximum': 11.9792861938, 'CN0_maximum': 87.7592849731, 'carrier_pool_low': 31547, 'assigned_bitrate': 4906323.6129, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_maximum': 265, 'log_on_count': 0, 'burst_time_offset_average': -615, 'state': 2, 'hps': '9', 'assigned_slots': 5068.51612903, 'time': '2020-07-10T00:52:00Z', 'CN0_minimum': 86.7299499512, 'cpm_controller_id': '1', 'burst_time_offset_maximum': -449, 'tx_psd_minimum': -84.1235961914, 'host': 'PGICPMCTL-8'}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'hps': '9', 'return_link_id': '4266', 'received_packets': 1858379, 'host': 'PGIDCP-10', 'received_bytes': 176767682, 'time': '2020-07-10T00:52:00Z', 'type': 'control'}, {'hps': '9', 'return_link_id': '4266', 'received_packets': 56783523, 'host': 'PGIDCP-10', 'received_bytes': 47830601591, 'time': '2020-07-10T00:52:00Z', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'dropped_bytes': 3606642, 'received_packets': 1406212922, 'sent_bytes': 737539693258, 'symbol_rate': 1413818, 'link_efficiency': None, 'dropped_packets': 19181, 'hps': '9', 'sent_symbols': None, 'delay': 1, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-8', 'link_occupation': 2.20611127173, 'received_bytes': 737543299900, 'type': 'control', 'sent_packets': 1406193741, 'forward_link_id': '4245', 'send_rate': None}, {'dropped_bytes': 0, 'received_packets': 0, 'sent_bytes': 0, 'symbol_rate': None, 'link_efficiency': None, 'dropped_packets': 0, 'hps': '8', 'sent_symbols': None, 'delay': None, 'time': '2020-07-10T00:52:00Z', 'host': 'PGICSE-10', 'link_occupation': None, 'received_bytes': 0, 'type': 'unicast', 'sent_packets': 0, 'forward_link_id': '4317', 'send_rate': 569739}]})
+
+Checking the tsdb for HMGW IP:10.75.10.180
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-07-10T01:25:30Z', 'modem_id': '11183', 'host': 'PGICSE-3', 'hps': '4', 'modcod': '16APSK 3/4 normal', 'signalled_cni': 11.9}, {'time': '2020-07-10T01:25:30Z', 'modem_id': '29167', 'host': 'PGICSE-3', 'hps': '4', 'modcod': '16APSK 3/4 normal', 'signalled_cni': 11.8}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-07-10T01:25:30Z', 'frequency_offset_maximum': 217, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': 38, 'CN0_minimum': 85.59324646, 'hps': '5', 'modem_id': '11688', 'host': 'PGICPMCTL-1', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 10.7794189453, 'burst_time_offset_average': -8, 'carrier_pool_high': 15749, 'burst_error_ratio': 0, 'CN0_average': 86.0387646305, 'assigned_bitrate': 1962510.70968, 'tx_power_maximum': -9, 'frequency_offset_minimum': -152, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 9.81324768066, 'burst_time_offset_minimum': -191, 'burst_packet_occupation': 0.274282798322, 'cpm_controller_id': '1', 'CN0_maximum': 86.5594177246, 'C0_average': -108.896356278, 'carrier_pool_low': 15749, 'tx_power_minimum': -9, 'burst_time_offset_maximum': 214, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 2027.38709677, 'link_margin_average': 10.2587658512, 'logged_on_time': 0}, {'time': '2020-07-10T01:25:30Z', 'frequency_offset_maximum': 141, 'tx_power_average': -8.9463917398, 'tx_psd_average': -75.0699877395, 'frequency_offset_average': -223, 'CN0_minimum': 77.1056594849, 'hps': '2', 'modem_id': '33689', 'host': 'PGICPMCTL-5', 'tx_psd_minimum': -84.0699879312, 'link_margin_maximum': 10.0651168823, 'burst_time_offset_average': -774, 'carrier_pool_high': 14947, 'burst_error_ratio': 0, 'CN0_average': 83.3987254661, 'assigned_bitrate': 2027927.73333, 'tx_power_maximum': -8.19999980927, 'frequency_offset_minimum': -511, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 1.32566070557, 'burst_time_offset_minimum': -976, 'burst_packet_occupation': 0.120943999745, 'cpm_controller_id': '1', 'CN0_maximum': 85.8451156616, 'C0_average': -116.244797013, 'carrier_pool_low': 14947, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -597, 'tx_psd_maximum': -74.3235931396, 'assigned_slots': 2094.96666667, 'link_margin_average': 7.61872668685, 'logged_on_time': 0}]})
+
+TSDB modem hrc stats
+
+ResultSet({'('modem.return.hrc_generic', None)': [{'bbp_error_count': 9046493, 'time': '2020-07-10T01:25:30Z', 'actual_BEPD': -126.82958518, 'BUC_frequency_offset': -569, 'logon_time': 14, 'ACM_margin': 1.25028884822, 'bbp_occupation': 51.5986258037, 'allocated_bit_rate': 40262080, 'logon_search_range': 58000, 'logging_on_carrier_guard_band_too_high_count': 2, 'hps': '3', 'modem_id': '18189', 'ESN0': 13.5855380738, 'rx_power_density': -127.184343704, 'host': 'PGIHRCCTL-2', 'uplink_fade': 0, 'errored_seconds_count': 7483, 'chip_rate': 15014210, 'frequency': 29906250000, 'regrowth_limited_power': 0, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-1', 'modcod': 27, 'state': 6, 'frequency_offset': -569, 'return_capacity_group_id': '20076', 'tx_power_density': -89.6769178501, 'insufficient_carrier_guard_band': False, 'link_margin': 3.07122092524, 'spread_factor': 1, 'C0D': 26.7577739188, 'out_of_lock_count': 59, 'tx_power': -17.7, 'C0ND': 13.3812209252, 'bbp_count': 646925293, 'rx_power': -55.2074258539}, {'bbp_error_count': 22944909, 'time': '2020-07-10T01:25:30Z', 'actual_BEPD': 0, 'BUC_frequency_offset': 0, 'logon_time': 433, 'ACM_margin': 2.5, 'bbp_occupation': 0, 'allocated_bit_rate': 0, 'logon_search_range': 100000, 'logging_on_carrier_guard_band_too_high_count': 925548, 'hps': '2', 'modem_id': '22544', 'ESN0': 0, 'rx_power_density': -138.607391613, 'host': 'PGIHRCCTL-6', 'uplink_fade': 0, 'errored_seconds_count': 1351688, 'chip_rate': 154150, 'frequency': 29629869000, 'regrowth_limited_power': 0, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-2', 'modcod': None, 'state': 9, 'frequency_offset': 0, 'return_capacity_group_id': '9593', 'tx_power_density': -88.3913282813, 'insufficient_carrier_guard_band': False, 'link_margin': 0, 'spread_factor': 1, 'C0D': None, 'out_of_lock_count': 455, 'tx_power': -36.3, 'C0ND': 0, 'bbp_count': 2510762250, 'rx_power': -86.5160633319}]})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'time': '2020-07-10T01:25:30Z', 'host': 'PGIDCP-1', 'hps': '3', 'return_link_id': '4050', 'type': 'control', 'received_bytes': 9719404307, 'received_packets': 48513696}, {'time': '2020-07-10T01:25:30Z', 'host': 'PGIDCP-1', 'hps': '3', 'return_link_id': '4050', 'type': 'global', 'received_bytes': 38998121762393, 'received_packets': 42559417600}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'time': '2020-07-10T01:25:30Z', 'delay': 1, 'link_occupation': 0.657467132858, 'send_rate': None, 'link_efficiency': None, 'type': 'control', 'received_bytes': 1019887024554, 'dropped_packets': 19280, 'sent_symbols': None, 'dropped_bytes': 3623790, 'sent_bytes': 1019883400764, 'hps': '1', 'symbol_rate': 1404491, 'host': 'PGICSE-2', 'forward_link_id': '3525', 'sent_packets': 1925768421, 'received_packets': 1925787701}, {'time': '2020-07-10T01:25:30Z', 'delay': None, 'link_occupation': None, 'send_rate': 1151743, 'link_efficiency': None, 'type': 'unicast', 'received_bytes': 128564639455, 'dropped_packets': 2748, 'sent_symbols': None, 'dropped_bytes': 3819050, 'sent_bytes': 128560818827, 'hps': '6', 'symbol_rate': None, 'host': 'PGICSE-5', 'forward_link_id': '4389', 'sent_packets': 92086596, 'received_packets': 92089344}]})
+
+Checking the tsdb for HMGW IP:10.75.10.183
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-07-10T01:25:30Z', 'modem_id': '19195', 'host': 'PGICSE-8', 'hps': '8', 'modcod': '16APSK 5/6 normal', 'signalled_cni': 14}, {'time': '2020-07-10T01:25:30Z', 'modem_id': '19209', 'host': 'PGICSE-8', 'hps': '8', 'modcod': '16APSK 5/6 normal', 'signalled_cni': 14.3}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-07-10T01:25:30Z', 'frequency_offset_maximum': 337, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': -59, 'CN0_minimum': 80.2905273438, 'hps': '8', 'modem_id': '19171', 'host': 'PGICPMCTL-9', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 7.88768005371, 'burst_time_offset_average': -939, 'carrier_pool_high': 31142, 'burst_error_ratio': 0, 'CN0_average': 82.3366942514, 'assigned_bitrate': 1342397.41935, 'tx_power_maximum': -9, 'frequency_offset_minimum': -273, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 4.51052856445, 'burst_time_offset_minimum': -1183, 'burst_packet_occupation': 2.53155712888, 'cpm_controller_id': '1', 'CN0_maximum': 83.667678833, 'C0_average': -117.062844102, 'carrier_pool_low': 31142, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -675, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 1386.77419355, 'link_margin_average': 6.55669547213, 'logged_on_time': 0}, {'time': '2020-07-10T01:25:30Z', 'frequency_offset_maximum': 342, 'tx_power_average': -9, 'tx_psd_average': -72.1132965088, 'frequency_offset_average': 206, 'CN0_minimum': 73.4716949463, 'hps': '8', 'modem_id': '34059', 'host': 'PGICPMCTL-9', 'tx_psd_minimum': -81.1132965088, 'link_margin_maximum': 3.97553253174, 'burst_time_offset_average': -837, 'carrier_pool_high': 31137, 'burst_error_ratio': 0, 'CN0_average': 73.7698798435, 'assigned_bitrate': 2308024.25806, 'tx_power_maximum': -9, 'frequency_offset_minimum': 73, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 3.22169494629, 'burst_time_offset_minimum': -1089, 'burst_packet_occupation': 0.184236906987, 'cpm_controller_id': '1', 'CN0_maximum': 74.2255325317, 'C0_average': -120.931249804, 'carrier_pool_low': 31137, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -589, 'tx_psd_maximum': -72.1132965088, 'assigned_slots': 2384.32258065, 'link_margin_average': 3.5198798435, 'logged_on_time': 0}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'time': '2020-07-10T01:25:30Z', 'host': 'PGIDCP-8', 'hps': '9', 'return_link_id': '4919', 'type': 'control', 'received_bytes': 3342240094, 'received_packets': 8546162}, {'time': '2020-07-10T01:25:30Z', 'host': 'PGIDCP-8', 'hps': '9', 'return_link_id': '4919', 'type': 'global', 'received_bytes': 18537235129430, 'received_packets': 19809630263}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'time': '2020-07-10T01:25:30Z', 'delay': 1, 'link_occupation': 3.89499063543, 'send_rate': None, 'link_efficiency': None, 'type': 'control', 'received_bytes': 1232118638924, 'dropped_packets': 4867, 'sent_symbols': None, 'dropped_bytes': 914965, 'sent_bytes': 1232117723959, 'hps': '8', 'symbol_rate': 3427249, 'host': 'PGICSE-8', 'forward_link_id': '4678', 'sent_packets': 2898338111, 'received_packets': 2898342978}, {'time': '2020-07-10T01:25:30Z', 'delay': None, 'link_occupation': None, 'send_rate': 140318912, 'link_efficiency': None, 'type': 'unicast', 'received_bytes': 129625288782848, 'dropped_packets': 54077384, 'sent_symbols': None, 'dropped_bytes': 65194792231, 'sent_bytes': 129560093976798, 'hps': '9', 'symbol_rate': None, 'host': 'PGICSE-9', 'forward_link_id': '4736', 'sent_packets': 103768132663, 'received_packets': 103822210057}]})
+
+Checking the tsdb for HMGW IP:10.75.11.60
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-07-10T01:26:00Z', 'modem_id': '18234', 'host': 'PGICSE-5', 'hps': '4', 'modcod': '16APSK 3/4 normal', 'signalled_cni': 11.9}, {'time': '2020-07-10T01:26:00Z', 'modem_id': '24269', 'host': 'PGICSE-7', 'hps': '3', 'modcod': '16APSK 25/36 normal', 'signalled_cni': 10.9}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-07-10T01:26:00Z', 'frequency_offset_maximum': 227, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': -27, 'CN0_minimum': 81.9954376221, 'hps': '3', 'modem_id': '24269', 'host': 'PGICPMCTL-5', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 10.7109527588, 'burst_time_offset_average': -1333, 'carrier_pool_high': 24461, 'burst_error_ratio': 0, 'CN0_average': 83.1804399643, 'assigned_bitrate': 3420847.46667, 'tx_power_maximum': -9, 'frequency_offset_minimum': -307, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 6.21543884277, 'burst_time_offset_minimum': -1531, 'burst_packet_occupation': 0.12264266644, 'cpm_controller_id': '1', 'CN0_maximum': 86.4909515381, 'C0_average': -123.439753198, 'carrier_pool_low': 24461, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -1152, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 3533.93333333, 'link_margin_average': 7.40044118497, 'logged_on_time': 0}, {'time': '2020-07-10T01:26:00Z', 'frequency_offset_maximum': 2393, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': 8, 'CN0_minimum': 84.6565704346, 'hps': '4', 'modem_id': '18234', 'host': 'PGICPMCTL-7', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 9.88290405273, 'burst_time_offset_average': -739, 'carrier_pool_high': 15615, 'burst_error_ratio': 0, 'CN0_average': 85.1238290007, 'assigned_bitrate': 4906323.6129, 'tx_power_maximum': -9, 'frequency_offset_minimum': -987, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 8.87657165527, 'burst_time_offset_minimum': -902, 'burst_packet_occupation': 0.801751597439, 'cpm_controller_id': '1', 'CN0_maximum': 85.662902832, 'C0_average': -124.75191282, 'carrier_pool_low': 15615, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -578, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 5068.51612903, 'link_margin_average': 9.34383022136, 'logged_on_time': 0}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'time': '2020-07-10T01:26:00Z', 'host': 'PGIDCP-1', 'hps': '5', 'return_link_id': '3834', 'type': 'control', 'received_bytes': 3218, 'received_packets': 30}, {'time': '2020-07-10T01:26:00Z', 'host': 'PGIDCP-1', 'hps': '5', 'return_link_id': '3834', 'type': 'global', 'received_bytes': 350354, 'received_packets': 3160}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'time': '2020-07-10T01:26:00Z', 'delay': -1, 'link_occupation': 0.141829659156, 'send_rate': None, 'link_efficiency': None, 'type': 'control', 'received_bytes': 836010071396, 'dropped_packets': 19272, 'sent_symbols': None, 'dropped_bytes': 3623580, 'sent_bytes': 836006447816, 'hps': '2', 'symbol_rate': 238250, 'host': 'PGICSE-6', 'forward_link_id': '3453', 'sent_packets': 1619928598, 'received_packets': 1619947870}, {'time': '2020-07-10T01:26:00Z', 'delay': None, 'link_occupation': None, 'send_rate': 1601585, 'link_efficiency': None, 'type': 'unicast', 'received_bytes': 1494638948190, 'dropped_packets': 494, 'sent_symbols': None, 'dropped_bytes': 692439, 'sent_bytes': 1494638255069, 'hps': '3', 'symbol_rate': None, 'host': 'PGICSE-7', 'forward_link_id': '3957', 'sent_packets': 1051291579, 'received_packets': 1051292073}]})
+
+Checking the tsdb for HMGW IP:10.75.11.63
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'time': '2020-07-10T01:26:00Z', 'modem_id': '31710', 'host': 'PGICSE-8', 'hps': '9', 'modcod': '16APSK 3/5 normal', 'signalled_cni': 10.3}, {'time': '2020-07-10T01:26:00Z', 'modem_id': '33352', 'host': 'PGICSE-8', 'hps': '9', 'modcod': '32APSK 2/3-L normal', 'signalled_cni': 12.9}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'time': '2020-07-10T01:26:00Z', 'frequency_offset_maximum': 338, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': 3, 'CN0_minimum': 83.0649108887, 'hps': '9', 'modem_id': '31710', 'host': 'PGICPMCTL-8', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 9.64545440674, 'burst_time_offset_average': -1348, 'carrier_pool_high': 31547, 'burst_error_ratio': 0, 'CN0_average': 84.3225054347, 'assigned_bitrate': 5082467.31034, 'tx_power_maximum': -9, 'frequency_offset_minimum': -380, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 7.28491210938, 'burst_time_offset_minimum': -1535, 'burst_packet_occupation': 0.281417235652, 'cpm_controller_id': '1', 'CN0_maximum': 85.425453186, 'C0_average': -115.14695252, 'carrier_pool_low': 31547, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -1191, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 5250.48275862, 'link_margin_average': 8.54250665544, 'logged_on_time': 0}, {'time': '2020-07-10T01:26:00Z', 'frequency_offset_maximum': 238, 'tx_power_average': -9, 'tx_psd_average': -75.1235961914, 'frequency_offset_average': -21, 'CN0_minimum': 86.3179779053, 'hps': '9', 'modem_id': '33352', 'host': 'PGICPMCTL-8', 'tx_psd_minimum': -84.1235961914, 'link_margin_maximum': 12.3725204468, 'burst_time_offset_average': -1068, 'carrier_pool_high': 31547, 'burst_error_ratio': 0, 'CN0_average': 87.260486032, 'assigned_bitrate': 5082467.31034, 'tx_power_maximum': -9, 'frequency_offset_minimum': -359, 'log_on_count': 0, 'state': 2, 'link_margin_minimum': 10.537979126, 'burst_time_offset_minimum': -1246, 'burst_packet_occupation': 6.69852044683, 'cpm_controller_id': '1', 'CN0_maximum': 88.1525192261, 'C0_average': -112.241068921, 'carrier_pool_low': 31547, 'tx_power_minimum': -9, 'burst_time_offset_maximum': -894, 'tx_psd_maximum': -75.1235961914, 'assigned_slots': 5250.48275862, 'link_margin_average': 11.4804872527, 'logged_on_time': 0}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'time': '2020-07-10T01:26:00Z', 'host': 'PGIDCP-10', 'hps': '9', 'return_link_id': '4266', 'type': 'control', 'received_bytes': 177512146, 'received_packets': 1864485}, {'time': '2020-07-10T01:26:00Z', 'host': 'PGIDCP-10', 'hps': '9', 'return_link_id': '4266', 'type': 'global', 'received_bytes': 48345353149, 'received_packets': 57286980}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'time': '2020-07-10T01:26:00Z', 'delay': 1, 'link_occupation': 2.18589638443, 'send_rate': None, 'link_efficiency': None, 'type': 'control', 'received_bytes': 737709624469, 'dropped_packets': 19181, 'sent_symbols': None, 'dropped_bytes': 3606642, 'sent_bytes': 737706017827, 'hps': '9', 'symbol_rate': 1400863, 'host': 'PGICSE-8', 'forward_link_id': '4245', 'sent_packets': 1406491168, 'received_packets': 1406510349}, {'time': '2020-07-10T01:26:00Z', 'delay': None, 'link_occupation': None, 'send_rate': 563729, 'link_efficiency': None, 'type': 'unicast', 'received_bytes': 0, 'dropped_packets': 0, 'sent_symbols': None, 'dropped_bytes': 0, 'sent_bytes': 0, 'hps': '8', 'symbol_rate': None, 'host': 'PGICSE-10', 'forward_link_id': '4317', 'sent_packets': 0, 'received_packets': 0}]})
+
+Checking the tsdb for HMGW IP:10.75.10.180
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'modem_id': '11183', 'host': 'PGICSE-3', 'time': '2020-07-10T01:36:30Z', 'hps': '4', 'signalled_cni': 11, 'modcod': '16APSK 2/3-L normal'}, {'modem_id': '29167', 'host': 'PGICSE-3', 'time': '2020-07-10T01:36:30Z', 'hps': '4', 'signalled_cni': 11.7, 'modcod': '16APSK 3/4 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'burst_error_ratio': 0, 'CN0_minimum': 85.4280548096, 'CN0_maximum': 86.5443649292, 'time': '2020-07-10T01:36:30Z', 'burst_time_offset_minimum': -1144, 'link_margin_maximum': 10.7643661499, 'burst_time_offset_maximum': -703, 'assigned_slots': 2016.93548387, 'burst_time_offset_average': -912, 'carrier_pool_high': 15749, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 10.3063888496, 'frequency_offset_average': 1, 'assigned_bitrate': 1952393.54839, 'host': 'PGICPMCTL-1', 'tx_power_average': -9, 'CN0_average': 86.0863876289, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -214, 'link_margin_minimum': 9.64805603027, 'C0_average': -108.8067155, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '11688', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 15749, 'hps': '5', 'state': 2, 'burst_packet_occupation': 0.185294634442, 'frequency_offset_maximum': 200, 'tx_psd_maximum': -75.1235961914}, {'burst_error_ratio': 0, 'CN0_minimum': 76.6995010376, 'CN0_maximum': 85.957069397, 'time': '2020-07-10T01:36:30Z', 'burst_time_offset_minimum': -882, 'link_margin_maximum': 10.1770706177, 'burst_time_offset_maximum': -488, 'assigned_slots': 2094.96666667, 'burst_time_offset_average': -688, 'carrier_pool_high': 14947, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 7.59665040308, 'frequency_offset_average': -237, 'assigned_bitrate': 2027927.73333, 'host': 'PGICPMCTL-5', 'tx_power_average': -8.9463917398, 'CN0_average': 83.3766491824, 'tx_psd_minimum': -84.0699879312, 'frequency_offset_minimum': -456, 'link_margin_minimum': 0.919502258301, 'C0_average': -116.330766406, 'tx_psd_average': -75.0699877395, 'log_on_count': 0, 'modem_id': '33689', 'tx_power_maximum': -8.19999980927, 'cpm_controller_id': '1', 'carrier_pool_low': 14947, 'hps': '2', 'state': 2, 'burst_packet_occupation': 0.127232533359, 'frequency_offset_maximum': 103, 'tx_psd_maximum': -74.3235931396}]})
+
+TSDB modem hrc stats
+
+ResultSet({'('modem.return.hrc_generic', None)': [{'actual_BEPD': -126.815528593, 'tx_power': -17.4, 'time': '2020-07-10T01:36:30Z', 'errored_seconds_count': 7483, 'ESN0': 14.2516176829, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-1', 'regrowth_limited_power': 0, 'C0D': 26.2550289815, 'insufficient_carrier_guard_band': False, 'state': 6, 'return_capacity_group_id': '20076', 'bbp_occupation': 37.4836868835, 'host': 'PGIHRCCTL-2', 'spread_factor': 1, 'tx_power_density': -89.3769178501, 'out_of_lock_count': 59, 'modcod': 27, 'logon_search_range': 58000, 'uplink_fade': 0, 'bbp_error_count': 9046493, 'modem_id': '18189', 'ACM_margin': 1.12062056606, 'link_margin': 3.67609631598, 'frequency': 29906250000, 'bbp_count': 655759393, 'allocated_bit_rate': 40262080, 'logging_on_carrier_guard_band_too_high_count': 2, 'rx_power': -54.8238903729, 'frequency_offset': -524, 'chip_rate': 15014210, 'BUC_frequency_offset': -524, 'hps': '3', 'rx_power_density': -126.800808223, 'logon_time': 14, 'C0ND': 13.986096316}, {'actual_BEPD': 0, 'tx_power': -36.3, 'time': '2020-07-10T01:36:30Z', 'errored_seconds_count': 1352349, 'ESN0': 0, 'assigned_mcd_role': 'KAC_SUB-1.HRC-DEMOD-ROLE-2', 'regrowth_limited_power': 0, 'C0D': None, 'insufficient_carrier_guard_band': False, 'state': 4, 'return_capacity_group_id': '9593', 'bbp_occupation': 0, 'host': 'PGIHRCCTL-6', 'spread_factor': 1, 'tx_power_density': -88.3913282813, 'out_of_lock_count': 455, 'modcod': None, 'logon_search_range': 100000, 'uplink_fade': 0, 'bbp_error_count': 22944909, 'modem_id': '22544', 'ACM_margin': 2.5, 'link_margin': 0, 'frequency': 29629869000, 'bbp_count': 2510762250, 'allocated_bit_rate': 0, 'logging_on_carrier_guard_band_too_high_count': 925548, 'rx_power': None, 'frequency_offset': 0, 'chip_rate': 154150, 'BUC_frequency_offset': 0, 'hps': '2', 'rx_power_density': None, 'logon_time': 234, 'C0ND': 0}]})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_packets': 48516862, 'return_link_id': '4050', 'host': 'PGIDCP-1', 'time': '2020-07-10T01:36:30Z', 'received_bytes': 9720091112, 'hps': '3', 'type': 'control'}, {'received_packets': 42564105381, 'return_link_id': '4050', 'host': 'PGIDCP-1', 'time': '2020-07-10T01:36:30Z', 'received_bytes': 39002380137522, 'hps': '3', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_packets': 1925879757, 'host': 'PGICSE-2', 'forward_link_id': '3525', 'received_bytes': 1019940069251, 'send_rate': None, 'symbol_rate': 1383014, 'sent_symbols': None, 'time': '2020-07-10T01:36:30Z', 'link_efficiency': None, 'sent_packets': 1925860477, 'sent_bytes': 1019936445461, 'hps': '1', 'link_occupation': 0.64741336846, 'dropped_bytes': 3623790, 'delay': 1, 'dropped_packets': 19280, 'type': 'control'}, {'received_packets': 92091420, 'host': 'PGICSE-5', 'forward_link_id': '4389', 'received_bytes': 128564734313, 'send_rate': 1163001, 'symbol_rate': None, 'sent_symbols': None, 'time': '2020-07-10T01:36:30Z', 'link_efficiency': None, 'sent_packets': 92088672, 'sent_bytes': 128560913685, 'hps': '6', 'link_occupation': None, 'dropped_bytes': 3819050, 'delay': None, 'dropped_packets': 2748, 'type': 'unicast'}]})
+
+Checking the tsdb for HMGW IP:10.75.10.183
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'modem_id': '19195', 'host': 'PGICSE-8', 'time': '2020-07-10T01:37:00Z', 'hps': '8', 'signalled_cni': 14, 'modcod': '16APSK 5/6 normal'}, {'modem_id': '19209', 'host': 'PGICSE-8', 'time': '2020-07-10T01:37:00Z', 'hps': '8', 'signalled_cni': 14.3, 'modcod': '16APSK 5/6 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'burst_error_ratio': 0, 'CN0_minimum': 80.1500015259, 'CN0_maximum': 83.6298828125, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': -2042, 'link_margin_maximum': 7.8498840332, 'burst_time_offset_maximum': 687, 'assigned_slots': 1410.55172414, 'burst_time_offset_average': -1713, 'carrier_pool_high': 31142, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 6.44657225132, 'frequency_offset_average': -36, 'assigned_bitrate': 1365414.06897, 'host': 'PGICPMCTL-9', 'tx_power_average': -9, 'CN0_average': 82.2265710306, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -328, 'link_margin_minimum': 4.37000274658, 'C0_average': -117.199008059, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '19171', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 31142, 'hps': '8', 'state': 2, 'burst_packet_occupation': 1.34796700059, 'frequency_offset_maximum': 317, 'tx_psd_maximum': -75.1235961914}, {'burst_error_ratio': 0, 'CN0_minimum': 73.2149353027, 'CN0_maximum': 74.1300048828, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': -1882, 'link_margin_maximum': 3.88000488281, 'burst_time_offset_maximum': -1417, 'assigned_slots': 2469.93103448, 'burst_time_offset_average': -1643, 'carrier_pool_high': 31137, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 3.47008720824, 'frequency_offset_average': 220, 'assigned_bitrate': 2390893.24138, 'host': 'PGICPMCTL-9', 'tx_power_average': -9, 'CN0_average': 73.7200872082, 'tx_psd_minimum': -81.1132965088, 'frequency_offset_minimum': 31, 'link_margin_minimum': 2.96493530273, 'C0_average': -121.048862163, 'tx_psd_average': -72.1132965088, 'log_on_count': 0, 'modem_id': '34059', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 31137, 'hps': '8', 'state': 2, 'burst_packet_occupation': 0.169650743799, 'frequency_offset_maximum': 380, 'tx_psd_maximum': -72.1132965088}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_packets': 8546176, 'return_link_id': '4919', 'host': 'PGIDCP-8', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 3342241116, 'hps': '9', 'type': 'control'}, {'received_packets': 19811460407, 'return_link_id': '4919', 'host': 'PGIDCP-8', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 18538998506184, 'hps': '9', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_packets': 2898857502, 'host': 'PGICSE-8', 'forward_link_id': '4678', 'received_bytes': 1232252729149, 'send_rate': None, 'symbol_rate': 3202074, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 2898852635, 'sent_bytes': 1232251814184, 'hps': '8', 'link_occupation': 3.63908436298, 'dropped_bytes': 914965, 'delay': 1, 'dropped_packets': 4867, 'type': 'control'}, {'received_packets': 103833359114, 'host': 'PGICSE-9', 'forward_link_id': '4736', 'received_bytes': 129640536759588, 'send_rate': 213340178, 'symbol_rate': None, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 103779281726, 'sent_bytes': 129575341962580, 'hps': '9', 'link_occupation': None, 'dropped_bytes': 65194792231, 'delay': None, 'dropped_packets': 54077384, 'type': 'unicast'}]})
+
+Checking the tsdb for HMGW IP:10.75.11.60
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'modem_id': '18234', 'host': 'PGICSE-5', 'time': '2020-07-10T01:37:00Z', 'hps': '4', 'signalled_cni': 11.8, 'modcod': '16APSK 3/4 normal'}, {'modem_id': '24269', 'host': 'PGICSE-7', 'time': '2020-07-10T01:37:00Z', 'hps': '3', 'signalled_cni': 10.7, 'modcod': '16APSK 23/36 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'burst_error_ratio': 0, 'CN0_minimum': 82.1168899536, 'CN0_maximum': 86.7319412231, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': 35, 'link_margin_maximum': 10.9519424438, 'burst_time_offset_maximum': 453, 'assigned_slots': 3666.23333333, 'burst_time_offset_average': 231, 'carrier_pool_high': 24461, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 7.29530557034, 'frequency_offset_average': -39, 'assigned_bitrate': 3548913.86667, 'host': 'PGICPMCTL-5', 'tx_power_average': -9, 'CN0_average': 83.0753043496, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -318, 'link_margin_minimum': 6.33689117432, 'C0_average': -123.38191618, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '24269', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 24461, 'hps': '3', 'state': 2, 'burst_packet_occupation': 0.091212580039, 'frequency_offset_maximum': 224, 'tx_psd_maximum': -75.1235961914}, {'burst_error_ratio': 0, 'CN0_minimum': 84.2732925415, 'CN0_maximum': 85.8948516846, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': -1765, 'link_margin_maximum': 10.1148529053, 'burst_time_offset_maximum': -1414, 'assigned_slots': 5250.51724138, 'burst_time_offset_average': -1588, 'carrier_pool_high': 15615, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 9.4012984627, 'frequency_offset_average': 9, 'assigned_bitrate': 5082500.68966, 'host': 'PGICPMCTL-7', 'tx_power_average': -9, 'CN0_average': 85.181297242, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -1194, 'link_margin_minimum': 8.49329376221, 'C0_average': -124.689363889, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '18234', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 15615, 'hps': '4', 'state': 2, 'burst_packet_occupation': 0.793682236573, 'frequency_offset_maximum': 2386, 'tx_psd_maximum': -75.1235961914}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_packets': 30, 'return_link_id': '3834', 'host': 'PGIDCP-1', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 3218, 'hps': '5', 'type': 'control'}, {'received_packets': 3160, 'return_link_id': '3834', 'host': 'PGIDCP-1', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 350354, 'hps': '5', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_packets': 1619998500, 'host': 'PGICSE-6', 'forward_link_id': '3453', 'received_bytes': 836019594198, 'send_rate': None, 'symbol_rate': 238504, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 1619979228, 'sent_bytes': 836015970618, 'hps': '2', 'link_occupation': 0.141980864753, 'dropped_bytes': 3623580, 'delay': -1, 'dropped_packets': 19272, 'type': 'control'}, {'received_packets': 1051387499, 'host': 'PGICSE-7', 'forward_link_id': '3957', 'received_bytes': 1494773792478, 'send_rate': 2123289, 'symbol_rate': None, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 1051387005, 'sent_bytes': 1494773099357, 'hps': '3', 'link_occupation': None, 'dropped_bytes': 692439, 'delay': None, 'dropped_packets': 494, 'type': 'unicast'}]})
+
+Checking the tsdb for HMGW IP:10.75.11.63
+
+TSDB modem fwd stats
+
+ResultSet({'('modem.forward.S2', None)': [{'modem_id': '33352', 'host': 'PGICSE-8', 'time': '2020-07-10T01:37:00Z', 'hps': '9', 'signalled_cni': 12.9, 'modcod': '32APSK 2/3-L normal'}, {'modem_id': '31710', 'host': 'PGICSE-8', 'time': '2020-07-10T01:37:00Z', 'hps': '9', 'signalled_cni': 10.7, 'modcod': '8PSK 5/6 normal'}]})
+
+TSDB modem return cpm stats
+
+ResultSet({'('modem.return.cpm_generic', None)': [{'burst_error_ratio': 0, 'CN0_minimum': 84.1981277466, 'CN0_maximum': 85.0509872437, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': -105, 'link_margin_maximum': 9.27098846436, 'burst_time_offset_maximum': 265, 'assigned_slots': 5042.38709677, 'burst_time_offset_average': 88, 'carrier_pool_high': 31547, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 8.79494382406, 'frequency_offset_average': -18, 'assigned_bitrate': 4881030.70968, 'host': 'PGICPMCTL-8', 'tx_power_average': -9, 'CN0_average': 84.5749426034, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -421, 'link_margin_minimum': 8.41812896729, 'C0_average': -114.858348468, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '31710', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 31547, 'hps': '9', 'state': 2, 'burst_packet_occupation': 0.311675703985, 'frequency_offset_maximum': 310, 'tx_psd_maximum': -75.1235961914}, {'burst_error_ratio': 0, 'CN0_minimum': 86.8140563965, 'CN0_maximum': 87.6219558716, 'time': '2020-07-10T01:37:00Z', 'burst_time_offset_minimum': -2035, 'link_margin_maximum': 11.8419570923, 'burst_time_offset_maximum': 531, 'assigned_slots': 5042.38709677, 'burst_time_offset_average': 273, 'carrier_pool_high': 31547, 'tx_power_minimum': -9, 'logged_on_time': 0, 'link_margin_average': 11.4348007433, 'frequency_offset_average': -38, 'assigned_bitrate': 4881030.70968, 'host': 'PGICPMCTL-8', 'tx_power_average': -9, 'CN0_average': 87.2147995225, 'tx_psd_minimum': -84.1235961914, 'frequency_offset_minimum': -408, 'link_margin_minimum': 11.0340576172, 'C0_average': -112.246465536, 'tx_psd_average': -75.1235961914, 'log_on_count': 0, 'modem_id': '33352', 'tx_power_maximum': -9, 'cpm_controller_id': '1', 'carrier_pool_low': 31547, 'hps': '9', 'state': 2, 'burst_packet_occupation': 7.52222562845, 'frequency_offset_maximum': 241, 'tx_psd_maximum': -75.1235961914}]})
+
+TSDB modem hrc stats
+
+ResultSet({})
+
+TSDB modem decap stats
+
+ResultSet({'('return.decapsulator', None)': [{'received_packets': 1866458, 'return_link_id': '4266', 'host': 'PGIDCP-10', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 177753131, 'hps': '9', 'type': 'control'}, {'received_packets': 57351242, 'return_link_id': '4266', 'host': 'PGIDCP-10', 'time': '2020-07-10T01:37:00Z', 'received_bytes': 48393425717, 'hps': '9', 'type': 'global'}]})
+
+TSDB modem cse stats
+
+ResultSet({'('forward.shaper', None)': [{'received_packets': 1406606629, 'host': 'PGICSE-8', 'forward_link_id': '4245', 'received_bytes': 737763464530, 'send_rate': None, 'symbol_rate': 1402651, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 1406587448, 'sent_bytes': 737759857888, 'hps': '9', 'link_occupation': 2.18868636656, 'dropped_bytes': 3606642, 'delay': 1, 'dropped_packets': 19181, 'type': 'control'}, {'received_packets': 0, 'host': 'PGICSE-10', 'forward_link_id': '4317', 'received_bytes': 0, 'send_rate': 579474, 'symbol_rate': None, 'sent_symbols': None, 'time': '2020-07-10T01:37:00Z', 'link_efficiency': None, 'sent_packets': 0, 'sent_bytes': 0, 'hps': '8', 'link_occupation': None, 'dropped_bytes': 0, 'delay': None, 'dropped_packets': 0, 'type': 'unicast'}]})

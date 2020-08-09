@@ -1,0 +1,4 @@
+Tue, 09 Jun 2020 13:00:21 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 192.168.48.129
+Tue, 09 Jun 2020 13:00:22 connectionpool.py[line:396] DEBUG http://192.168.48.129:39006 "POST /tics/rest/terminal HTTP/1.1" 500 None
+Tue, 09 Jun 2020 13:00:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 192.168.48.129
+Tue, 09 Jun 2020 13:00:23 connectionpool.py[line:396] DEBUG http://192.168.48.129:39006 "GET /tics/rest/terminal HTTP/1.1" 200 None
